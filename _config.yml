@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yongsheng Mei"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D candidate at the Geroge Washington University, "
-  location         : "Washington, District of Columbia"
+  Location         : "Washington, District of Columbia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=y4Qyp24AAAAJ&hl=en"
-  email            : "ysmei@gwu.edu"
+  Google Scholar   : "https://scholar.google.com/citations?user=y4Qyp24AAAAJ&hl=en"
+  Email            : "ysmei@gwu.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ysmei97"
+  GitHub           : "ysmei97"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0001-7606-8931"
+  LinkedIn         : "https://www.linkedin.com/in/yongshengmei/"
+  ORCID            : "https://orcid.org/0000-0001-7606-8931"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
