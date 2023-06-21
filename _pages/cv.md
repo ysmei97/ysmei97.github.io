@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical Engineering, The George Washington University, 2024 (expected)
+* B.E. in Automation, Huazhong University of Science and Technology (HUST), 2019
 
 Work experience
 ======
@@ -29,12 +28,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C, C++, MATLAB, Java, SQL, R, Verilog
+* Frameworks and Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, CVX
+* Databases: MySQL, PostgreSQL, Microsoft SQL, NoSQL
+* Tools: Vim, Git, Bash, GDB, PyCharm, Jupyter, LaTex, Visual Studio, Altium Designer
 
 Publications
 ======
