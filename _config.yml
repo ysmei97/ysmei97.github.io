@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home: Yongsheng"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yongsheng Mei"
 description              : &description "Ph.D. Candidate at the George Washington University"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yongsheng Mei"
   avatar           : "profile.jpg"
-  bio              : "Ph.D candidate at the Geroge Washington University, "
+  bio              : "Ph.D. candidate at the Geroge Washington University, "
   location         : "Washington, District of Columbia"
   employer         :
   pubmed           : 
-  googlescholar   : "https://scholar.google.com/citations?user=y4Qyp24AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=y4Qyp24AAAAJ&hl=en"
   email            : "ysmei@gwu.edu"
   researchgate     : 
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yongshengmei/"
+  linkedin         : "yongshengmei"
   orcid            : "https://orcid.org/0000-0001-7606-8931"
   pinterest        :
   soundcloud       :
