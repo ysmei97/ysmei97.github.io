@@ -12,23 +12,23 @@ Education
 Experience
 ======
 * Summer 2019 -- present: Research Assistant
-  * The George Washington University, Advisor: Professor Tian Lan.
-  * Research topic 1: Multi-Agent Reinforcement Learning (MARL)
+  * The George Washington University, Advisor: Prof. Tian Lan.
+  * **Topic 1**: Multi-Agent Reinforcement Learning (MARL)
     * Led multiple projects related to MARL, such as MAC-PO (finding an optimized prioritization scheme in MARL) and AccMER (developing a data-reuse strategy to accelerate MARL).
     * Responsibilities: MARL theoretical problem formulation, experiment
-    * Highlights: Python, PyTorch, Cython
-  * Research topic 2: Bayesian optimization
+    * _Highlights_: Python, PyTorch, Cython
+  * **Topic 2**: Bayesian optimization
     * Develop a novel gradient-aware Bayesian optimization algorithm to locate local optima and a Bayesian optimization model for doubly stochastic point process.
     * Responsibilities: Theoretical derivation, time series analysis, experiment
-    * Highlights: Python, MATLAB, Scikit-Learn, Numpy, Pandas
-  * Research topic 3: Multi-modal medical image processing
+    * _Highlights_: Python, MATLAB, Scikit-Learn, Numpy, Pandas
+  * **Topic 3**: Multi-modal medical image processing
     * Develop a multi-modal brain tumor MRI image segmentation model via data fusion and attention with extracted novel common information microstructures among different modalities.
     * Responsibilities: Information theatrical analysis, medical image analysis, model design, experiment
-    * Highlights: Python, PyTorch, Keras, Transformer
-  * Research topic 4: Network security via protocol customization
+    * _Highlights_: Python, PyTorch, Keras, Transformer
+  * **Topic 4**: Network security via protocol customization
     * Develop a reliable application-layer moving target defense model via customized communication protocols and dynamic synchronization and management.
     * Responsibilities: protocol analysis, moving target design, self-synchronization design, experiment
-    * Highlights: C, Python, Linux kernel
+    * _Highlights_: C, Python, Linux kernel
 * Summer 2017: Electronic Engineer Student Intern
   * Electrical and Electronic Technology Innovation Center, HUST
   * Responsibilities: Printed circuit board design, FPGA programming
