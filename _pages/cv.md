@@ -54,5 +54,6 @@ Presentations
 Services
 ======
 1. Reviewer of the IEEE Transactions on Networking
-2. Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
-3. Reviewer of the European Conference on Artificial Intelligence
+2. Reviewer of the European Conference on Artificial Intelligence
+3. Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
+
