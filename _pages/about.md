@@ -10,4 +10,4 @@ redirect_from:
 
 Welcome to Yongsheng's homepage!
 
-*News
+*Under Construction*
