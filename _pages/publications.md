@@ -4,13 +4,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+This page shows my publication chronologically. You can also find them on my [Google Scholar](https://scholar.google.com/citations?user=y4Qyp24AAAAJ&hl=en).
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Conference
+------
+1. **Yongsheng Mei**, Tian Lan, and Guru Venkataramani, *Exploiting Partial Common Information Microstructure for Multi-Modal Brain Tumor Segmentation*, ICML workshop on Machine Learning for Multimodal Healthcare Data (ML4MHD), July 2023. [[PDF](https://arxiv.org/pdf/2302.02521.pdf)]
+2. Kailash Gogineni, **Yongsheng Mei**, Peng Wei, Tian Lan, and Guru Venkataramani, *AccMER: Accelerating Multi-agent Experience Replay with Cache Locality-aware Prioritization*, IEEE International Conference on Application-specific Systems, Architectures, and Processors (ASAP), July 2023. [[PDF](https://arxiv.org/pdf/2306.00187.pdf)]
+3. **Yongsheng Mei**, Hanhan Zhou, Tian Lan, Guru Venkataramani, and Peng Wei, *MAC-PO: Multi-Agent Experience Replay via Collective Priority Optimization*, International Conference on Autonomous Agents and Multiagent Systems (AAMAS), June 2023. [[PDF](https://arxiv.org/pdf/2302.10418.pdf)][[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:1dNxrs6IwrgJ:scholar.google.com/&output=citation&scisdr=Cm0OD9uxELvbjgOZhl4:AGlGAw8AAAAAZJSfnl6Td_2fFN2uP5kncvtZWDU&scisig=AGlGAw8AAAAAZJSfnqGRjjW0ie1MUFg2oWyWfCY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)]
+4. Kailash Gogineni, **Yongsheng Mei**, Guru Venkataramani, and Tian Lan, *Verify-Pro: A Framework for Server Authentication Using Communication Protocol Dialects*, IEEE Military Communications Conference (MILCOM), September 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/10017649)]
+5. **Yongsheng Mei**, Kailash Gogineni, Tian Lan, and Guru Venkataramani, *MPD: Moving Target Defense through Communication Protocol Dialects*, International Conference on Security and Privacy in Communication Networks (SecureComm), September 2021. [[PDF](https://arxiv.org/pdf/2110.03798.pdf)]
+6. Hongfa Xue, **Yongsheng Mei**, Kailash Gogineni, Guru Venkataramani, and Tian Lan, *Twin-Finder: Integrated Reasoning Engine for Pointer-related Code Clone Detection*, International Workshop on Software Clones (IWSC), February 2020. [[PDF](https://arxiv.org/pdf/1911.00561.pdf)]
 
-{% include base_path %}
+Journal
+------
+1. Yurong Chen, **Yongsheng Mei**, Tian Lan, and Guru Venkataramani, *Exploring Effective Fuzzing Strategies to Analyze Communication Protocols*, ACM Digital Threats: Research and Practice (DTRAP), March 2022. [[PDF](https://www2.seas.gwu.edu/~tlan/papers/YF_DTRAP_2022.pdf)]
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Archive
+------
+1. **Yongsheng Mei**, Hanhan Zhou, and Tian Lan, *ReMIX: Regret Minimization for Monotonic Value Function Factorization in Multiagent Reinforcement Learning*.[[PDF](https://arxiv.org/pdf/2302.05593.pdf)]
+2. **Yongsheng Mei**, Tian Lan, Mahdi Imani, and Suresh Subramaniam, *A Bayesian Optimization Framework for Finding Local Optima in Expensive Multi-Modal Functions*.[[PDF](https://arxiv.org/pdf/2210.06635.pdf )]
