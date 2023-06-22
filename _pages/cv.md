@@ -9,17 +9,30 @@ Education
 * Ph.D. in Electrical Engineering, The George Washington University, 2024 (expected)
 * B.E. in Automation, Huazhong University of Science and Technology (HUST), 2019
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019 -- present: Research Assistant
+  * The George Washington University, Advisor: Professor Tian Lan.
+  * Research topic 1: Multi-Agent Reinforcement Learning (MARL)
+    * Led multiple projects related to MARL, such as MAC-PO (finding an optimized prioritization scheme in MARL) and AccMER (developing a data-reuse strategy to accelerate MARL).
+    * Responsibilities: MARL theoretical problem formulation, experiment
+    * Highlights: Python, PyTorch, Cython
+  * Research topic 2: Bayesian optimization
+    * Develop a novel gradient-aware Bayesian optimization algorithm to locate local optima and a Bayesian optimization model for doubly stochastic point process.
+    * Responsibilities: Theoretical derivation, time series analysis, experiment
+    * Highlights: Python, MATLAB, Scikit-Learn, Numpy, Pandas
+  * Research topic 3: Multi-modal medical image processing
+    * Develop a multi-modal brain tumor MRI image segmentation model via data fusion and attention with extracted novel common information microstructures among different modalities.
+    * Responsibilities: Information theatrical analysis, medical image analysis, model design, experiment
+    * Highlights: Python, PyTorch, Keras, Transformer
+  * Research topic 4: Network security via protocol customization
+    * Develop a reliable application-layer moving target defense model via customized communication protocols and dynamic synchronization and management.
+    * Responsibilities: protocol analysis, moving target design, self-synchronization design, experiment
+    * Highlights: C, Python, Linux kernel
+* Summer 2017: Electronic Engineer Student Intern
+  * Electrical and Electronic Technology Innovation Center, HUST
+  * Responsibilities: Printed circuit board design, FPGA programming
+  * Our work achieved the Second Prize of Hubei province in the 2017 national undergraduate electronic design contest.
   
 Skills
 ======
