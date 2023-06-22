@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
 
 Welcome to my website!
 ======
