@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page shows my publication chronologically. You can also find them on my [Google Scholar](https://scholar.google.com/citations?user=y4Qyp24AAAAJ&hl=en).
+This page shows my publications chronologically. You can also find them on my [Google Scholar](https://scholar.google.com/citations?user=y4Qyp24AAAAJ&hl=en).
 
 Conference
 ------
