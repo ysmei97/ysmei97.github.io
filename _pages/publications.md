@@ -6,6 +6,11 @@ author_profile: true
 ---
 This page shows my publications chronologically. You can also find them on my [Google Scholar](https://scholar.google.com/citations?user=y4Qyp24AAAAJ&hl=en).
 
+Preprint
+------
+1. **Yongsheng Mei**, Hanhan Zhou, and Tian Lan, *ReMIX: Regret Minimization for Monotonic Value Function Factorization in Multiagent Reinforcement Learning*.[[PDF](https://arxiv.org/pdf/2302.05593.pdf)]
+2. **Yongsheng Mei**, Tian Lan, Mahdi Imani, and Suresh Subramaniam, *A Bayesian Optimization Framework for Finding Local Optima in Expensive Multi-Modal Functions*.[[PDF](https://arxiv.org/pdf/2210.06635.pdf )]
+
 Conference
 ------
 1. **Yongsheng Mei**, Tian Lan, and Guru Venkataramani, *Exploiting Partial Common Information Microstructure for Multi-Modal Brain Tumor Segmentation*, ICML workshop on Machine Learning for Multimodal Healthcare Data (ML4MHD), July 2023. [[PDF](https://arxiv.org/pdf/2302.02521.pdf)][[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:47nos1YV5soJ:scholar.google.com/&output=citation&scisdr=Cm0OD9uxELvbjgOlupM:AGlGAw8AAAAAZJSjopPOTgQa-bBQszsb_MgxgK8&scisig=AGlGAw8AAAAAZJSjomksO2zBGZlQY9HOlcoUXQg&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)]
@@ -18,8 +23,3 @@ Conference
 Journal
 ------
 1. Yurong Chen, **Yongsheng Mei**, Tian Lan, and Guru Venkataramani, *Exploring Effective Fuzzing Strategies to Analyze Communication Protocols*, ACM Digital Threats: Research and Practice (DTRAP), March 2022. [[PDF](https://www2.seas.gwu.edu/~tlan/papers/YF_DTRAP_2022.pdf)]
-
-Preprint
-------
-1. **Yongsheng Mei**, Hanhan Zhou, and Tian Lan, *ReMIX: Regret Minimization for Monotonic Value Function Factorization in Multiagent Reinforcement Learning*.[[PDF](https://arxiv.org/pdf/2302.05593.pdf)]
-2. **Yongsheng Mei**, Tian Lan, Mahdi Imani, and Suresh Subramaniam, *A Bayesian Optimization Framework for Finding Local Optima in Expensive Multi-Modal Functions*.[[PDF](https://arxiv.org/pdf/2210.06635.pdf )]
