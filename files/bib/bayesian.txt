@@ -1,0 +1,6 @@
+@article{mei2022bayesian,
+  title={A Bayesian Optimization Framework for Finding Local Optima in Expensive Multi-Modal Functions},
+  author={Mei, Yongsheng and Lan, Tian and Imani, Mahdi and Subramaniam, Suresh},
+  journal={arXiv preprint arXiv:2210.06635},
+  year={2022}
+}

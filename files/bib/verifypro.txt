@@ -1,0 +1,8 @@
+@inproceedings{gogineni2022verify,
+  title={Verify-Pro: A Framework for Server Authentication Using Communication Protocol Dialects},
+  author={Gogineni, Kailash and Mei, Yongsheng and Venkataramani, Guru and Lan, Tian},
+  booktitle={MILCOM 2022-2022 IEEE Military Communications Conference (MILCOM)},
+  pages={450--457},
+  year={2022},
+  organization={IEEE}
+}

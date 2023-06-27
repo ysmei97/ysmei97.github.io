@@ -1,0 +1,7 @@
+@inproceedings{mei2023mac,
+  title={MAC-PO: Multi-Agent Experience Replay via Collective Priority Optimization},
+  author={Mei, Yongsheng and Zhou, Hanhan and Lan, Tian and Venkataramani, Guru and Wei, Peng},
+  booktitle={Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems},
+  pages={466--475},
+  year={2023}
+}

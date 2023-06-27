@@ -1,0 +1,6 @@
+@article{gogineni2023accmer,
+  title={AccMER: Accelerating Multi-Agent Experience Replay with Cache Locality-aware Prioritization},
+  author={Gogineni, Kailash and Mei, Yongsheng and Wei, Peng and Lan, Tian and Venkataramani, Guru},
+  journal={arXiv preprint arXiv:2306.00187},
+  year={2023}
+}
