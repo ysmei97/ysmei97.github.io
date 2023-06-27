@@ -8,7 +8,7 @@ This page shows my publications chronologically. You can also find them on my [G
 
 Preprint
 ------
-1. **Yongsheng Mei**, Hanhan Zhou, and Tian Lan, *ReMIX: Regret Minimization for Monotonic Value Function Factorization in Multiagent Reinforcement Learning*.[[PDF](https://arxiv.org/pdf/2302.05593.pdf)][[BibTex](http://ysmei97.github.io/files/bib/remix)]
+1. **Yongsheng Mei**, Hanhan Zhou, and Tian Lan, *ReMIX: Regret Minimization for Monotonic Value Function Factorization in Multiagent Reinforcement Learning*.[[PDF](https://arxiv.org/pdf/2302.05593.pdf)][[BibTex](http://ysmei97.github.io/files/bib/remix.txt)]
 2. **Yongsheng Mei**, Tian Lan, Mahdi Imani, and Suresh Subramaniam, *A Bayesian Optimization Framework for Finding Local Optima in Expensive Multi-Modal Functions*.[[PDF](https://arxiv.org/pdf/2210.06635.pdf)][[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:9ykscXvSK78J:scholar.google.com/&output=citation&scisdr=Cm0OD9uxELvbjgO3qVk:AGlGAw8AAAAAZJSxsVl-6bA50WhhiVroWAW4BLs&scisig=AGlGAw8AAAAAZJSxsfwYQNJ5CVQY-yMcZ9TaMkQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)]
 
 Conference
