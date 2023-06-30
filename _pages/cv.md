@@ -7,6 +7,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download my [resume]((http://ysmei97.github.io/files/resume.pdf)).
+
 Education
 ======
 * Ph.D. in Electrical Engineering, The George Washington University, 2024 (expected)
@@ -18,24 +20,24 @@ Experience
   * The George Washington University, Advisor: Prof. Tian Lan.
   * **Topic 1**: Multi-Agent Reinforcement Learning (MARL)
     * Led multiple projects related to MARL, such as MAC-PO (finding an optimized prioritization scheme in MARL) and AccMER (developing a data-reuse strategy to accelerate MARL).
-    * Responsibilities: MARL theoretical problem formulation, experiment
-    * _Highlights_: Python, PyTorch, Cython
+    * *Responsibilities*: MARL theoretical problem formulation, experiment
+    * *Highlights*: Python, PyTorch, Cython
   * **Topic 2**: Bayesian optimization
     * Develop a novel gradient-aware Bayesian optimization algorithm to locate local optima and a Bayesian optimization model for doubly stochastic point process.
-    * Responsibilities: Theoretical derivation, time series analysis, experiment
-    * _Highlights_: Python, MATLAB, Scikit-Learn, Numpy, Pandas
+    * *Responsibilities*: Theoretical derivation, time series analysis, experiment
+    * *Highlights*: Python, MATLAB, Scikit-Learn, Numpy, Pandas
   * **Topic 3**: Multi-modal medical image processing
     * Develop a multi-modal brain tumor MRI image segmentation model via data fusion and attention with extracted novel common information microstructures among different modalities.
-    * Responsibilities: Information theatrical analysis, medical image analysis, model design, experiment
-    * _Highlights_: Python, PyTorch, Keras, Transformer
+    * *Responsibilities*: Information theatrical analysis, medical image analysis, model design, experiment
+    * *Highlights*: Python, PyTorch, Keras, Transformer
   * **Topic 4**: Network security via protocol customization
     * Develop a reliable application-layer moving target defense model via customized communication protocols and dynamic synchronization and management.
-    * Responsibilities: protocol analysis, moving target design, self-synchronization design, experiment
-    * _Highlights_: C, Python, Linux kernel
+    * *Responsibilities*: protocol analysis, moving target design, self-synchronization design, experiment
+    * *Highlights*: C, Python, Linux kernel
 * Summer 2017: Electronic Engineer Student Intern
   * Electrical and Electronic Technology Innovation Center, HUST
-  * Responsibilities: Printed circuit board design, FPGA programming
-  * Our work achieved the Second Prize of Hubei province in the 2017 national undergraduate electronic design contest.
+  * *Responsibilities*: Printed circuit board design, FPGA programming
+  * *Highlights*: The work achieved the Second Prize of Hubei province in the 2017 national undergraduate electronic design contest.
   
 Skills
 ======
