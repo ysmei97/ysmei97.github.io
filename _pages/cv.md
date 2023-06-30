@@ -7,7 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [resume]((http://ysmei97.github.io/files/resume.pdf)).
+Download my [resume](http://ysmei97.github.io/files/resume.pdf).
 
 Education
 ======
