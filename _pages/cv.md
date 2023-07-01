@@ -7,7 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-For exhaustive details, please see my [CV](http://ysmei97.github.io/files/resume.pdf).
+For the exhaustive details, please see my [CV](http://ysmei97.github.io/files/resume.pdf).
 
 Education
 ======
