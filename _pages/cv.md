@@ -48,14 +48,14 @@ Skills
 
 Presentations
 ======
-1. Meeting with the Office of Naval Research (ONR) on the project [DIALECT](https://github.com/kailashg26/ONR_Dialect), Feb. 2022, Online.
-2. EAI 17th International Conference on Security and Privacy in Communication Networks, Sept. 2021, Online.[[Video](https://www.youtube.com/watch?v=Q1kpBd9dO6M)]
-3. TPCP Software Security Summer School (SSSS), Aug. 2020, Online.[[Video](https://www.cerias.purdue.edu/assets/downloads/ssss20/videos/day05_02.mp4)]
-4. IEEE 14th International Workshop on Software Clones (IWSC), Feb. 2020, London, ON, Canada.
+* Meeting with the Office of Naval Research (ONR) on the project [DIALECT](https://github.com/kailashg26/ONR_Dialect), Feb. 2022, Online.
+* EAI 17th International Conference on Security and Privacy in Communication Networks, Sept. 2021, Online.[[Video](https://www.youtube.com/watch?v=Q1kpBd9dO6M)]
+* TPCP Software Security Summer School (SSSS), Aug. 2020, Online.[[Video](https://www.cerias.purdue.edu/assets/downloads/ssss20/videos/day05_02.mp4)]
+* IEEE 14th International Workshop on Software Clones (IWSC), Feb. 2020, London, ON, Canada.
 
 Services
 ======
-1. Reviewer of the IEEE Transactions on Networking
-2. Reviewer of the European Conference on Artificial Intelligence
-3. Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
+* Reviewer of the IEEE Transactions on Networking
+* Reviewer of the European Conference on Artificial Intelligence
+* Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
 
