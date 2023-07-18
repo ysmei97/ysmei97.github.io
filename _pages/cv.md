@@ -17,7 +17,7 @@ Education
 
 Experience
 ======
-* Summer 2019 -- present: Research Assistant
+* 2019 -- present: Research Assistant
   * The George Washington University, Advisor: Prof. Tian Lan.
   * **Topic 1**: Multi-Agent Reinforcement Learning (MARL)
     * Led multiple projects related to MARL, such as MAC-PO (finding an optimized prioritization scheme in MARL) and AccMER (developing a data-reuse strategy to accelerate MARL).
