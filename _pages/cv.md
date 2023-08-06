@@ -57,8 +57,10 @@ Presentations
 Services
 ======
 * Reviewer of the IEEE Transactions on Networking
+* Reviewer of the IEEE Micro
 * Reviewer of the Information Fusion
 * Reviewer of the Conference on Neural Information Processing Systems
 * Reviewer of the European Conference on Artificial Intelligence
+* Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
 * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
 
