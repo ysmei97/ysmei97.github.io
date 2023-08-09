@@ -35,6 +35,11 @@ Experience
     * Develop a reliable application-layer moving target defense model via customized communication protocols and dynamic synchronization and management.
     * *Responsibilities*: protocol analysis, moving target design, self-synchronization design, experiment
     * *Highlights*: C, Python, Linux kernel
+* Summer 2023: Visiting Scholar
+  * Purdue University
+  * Developing a class-incremental federated learning model with time-variant input of each edge device, by using the diffusion generative model for the server and clients to learn better performance.
+  * *Responsibilities*: Continual federated learning problem formulation, generative models, experiment 
+  * *Highlights*: Python, PyTorch.
 * Summer 2017: Electronic Engineer Student Intern
   * Electrical and Electronic Technology Innovation Center, HUST
   * *Responsibilities*: Printed circuit board design, FPGA programming
@@ -49,6 +54,7 @@ Skills
 
 Presentations
 ======
+* ICML 2023 workshop on Machine Learning for Multimodal Healthcare Data, July 2023, Honolulu, HI, US
 * Meeting with the Office of Naval Research (ONR) on the project [DIALECT](https://github.com/kailashg26/ONR_Dialect), Feb. 2022, Online.
 * EAI 17th International Conference on Security and Privacy in Communication Networks, Sept. 2021, Online.[[Video](https://www.youtube.com/watch?v=Q1kpBd9dO6M)]
 * TPCP Software Security Summer School (SSSS), Aug. 2020, Online.[[Video](https://www.cerias.purdue.edu/assets/downloads/ssss20/videos/day05_02.mp4)]
