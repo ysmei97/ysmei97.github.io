@@ -18,7 +18,7 @@ Education
 Experience
 ======
 * 2019 -- present: Research Assistant
-  * The George Washington University, Advisor: Prof. Tian Lan.
+  * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
   * **Topic 1**: Multi-Agent Reinforcement Learning (MARL)
     * Led multiple projects related to MARL, such as MAC-PO (finding an optimized prioritization scheme in MARL) and AccMER (developing a data-reuse strategy to accelerate MARL).
     * *Responsibilities*: MARL theoretical problem formulation, experiment
@@ -36,12 +36,13 @@ Experience
     * *Responsibilities*: protocol analysis, moving target design, self-synchronization design, experiment
     * *Highlights*: C, Python, Linux kernel
 * Summer 2023: Visiting Scholar
-  * Purdue University
+  * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
   * Developing a class-incremental federated learning model with time-variant input of each edge device, by using the diffusion generative model for the server and clients to learn better performance.
-  * *Responsibilities*: Continual federated learning problem formulation, generative models, experiment 
+  * *Responsibilities*: Continual federated learning problem formulation, generative models design, experiment 
   * *Highlights*: Python, PyTorch.
 * Summer 2017: Electronic Engineer Student Intern
   * Electrical and Electronic Technology Innovation Center, HUST
+  * Designing printed circuit board and performed FPGA programming for the adaptive signal filter.
   * *Responsibilities*: Printed circuit board design, FPGA programming
   * *Highlights*: The work achieved the Second Prize of Hubei province in the 2017 national undergraduate electronic design contest.
   
