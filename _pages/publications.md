@@ -22,4 +22,4 @@ Conference
 
 Journal
 ------
-1. Yurong Chen, **Yongsheng Mei**, Tian Lan, and Guru Venkataramani, *Exploring Effective Fuzzing Strategies to Analyze Communication Protocols*, ACM Digital Threats: Research and Practice (DTRAP), March 2022. [[PDF](https://ysmei97.github.io/files/papers/DTRAP.pdf)]
+1. Yurong Chen, **Yongsheng Mei**, Tian Lan, and Guru Venkataramani, *Exploring Effective Fuzzing Strategies to Analyze Communication Protocols*, ACM Digital Threats: Research and Practice (DTRAP), March 2022. [[PDF](https://ysmei97.github.io/files/papers/DTRAP.pdf)][[BibTeX](http://ysmei97.github.io/files/bib/exploring.txt)]
