@@ -1,6 +1,8 @@
-@article{gogineni2023accmer,
-  title={AccMER: Accelerating Multi-Agent Experience Replay with Cache Locality-aware Prioritization},
-  author={Gogineni, Kailash and Mei, Yongsheng and Wei, Peng and Lan, Tian and Venkataramani, Guru},
-  journal={arXiv preprint arXiv:2306.00187},
-  year={2023}
+@inproceedings{gogineni2023accmer,
+  title={Accmer: Accelerating multi-agent experience replay with cache locality-aware prioritization},
+  author={Gogineni, Kailash and Mei, Yongsheng and Lan, Tian and Wei, Peng and Venkataramani, Guru},
+  booktitle={2023 IEEE 34th International Conference on Application-specific Systems, Architectures and Processors (ASAP)},
+  pages={205--212},
+  year={2023},
+  organization={IEEE}
 }
