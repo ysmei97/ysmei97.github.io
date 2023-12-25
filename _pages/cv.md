@@ -19,14 +19,14 @@ Experience
 ======
 * 2019 -- present: Research Assistant
   * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
-  * **Topic 1**: Multi-Agent Reinforcement Learning (MARL)
+  * **Topic 1**: Bayesian optimization (BO)
+    * Develop a novel gradient-aware BO algorithm to locate local optima in multimodal functions and a BO model for doubly stochastic point process for spatio-temporal data.
+    * *Responsibilities*: Theoretical derivation, time series analysis, experiment
+    * *Highlights*: Python, MATLAB, Scikit-Learn, Numpy, Pandas, BoTorch
+  * **Topic 2**: Multi-Agent Reinforcement Learning (MARL)
     * Led multiple projects related to MARL, such as MAC-PO (finding an optimized prioritization scheme in MARL) and AccMER (developing a data-reuse strategy to accelerate MARL).
     * *Responsibilities*: MARL theoretical problem formulation, experiment
     * *Highlights*: Python, PyTorch, Cython
-  * **Topic 2**: Bayesian optimization
-    * Develop a novel gradient-aware Bayesian optimization algorithm to locate local optima and a Bayesian optimization model for doubly stochastic point process.
-    * *Responsibilities*: Theoretical derivation, time series analysis, experiment
-    * *Highlights*: Python, MATLAB, Scikit-Learn, Numpy, Pandas
   * **Topic 3**: Multi-modal medical image processing
     * Develop a multi-modal brain tumor MRI image segmentation model via data fusion and attention with extracted novel common information microstructures among different modalities.
     * *Responsibilities*: Information theatrical analysis, medical image analysis, model design, experiment
@@ -42,14 +42,14 @@ Experience
   * *Highlights*: Python, PyTorch.
 * Summer 2017: Electronic Engineer Student Intern
   * Electrical and Electronic Technology Innovation Center, HUST
-  * Designing printed circuit board and performed FPGA programming for the adaptive signal filter.
+  * Designed the printed circuit board and performed FPGA programming for the adaptive signal filter.
   * *Responsibilities*: Printed circuit board design, FPGA programming
   * *Highlights*: The work achieved the Second Prize of Hubei province in the 2017 national undergraduate electronic design contest.
   
 Skills
 ======
 * Programming Languages: Python, C, C++, MATLAB, Java, SQL, R, Verilog
-* Frameworks and Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, CVX
+* Frameworks and Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, BoTorch
 * Databases: MySQL, PostgreSQL, Microsoft SQL, NoSQL
 * Tools: Vim, Git, Bash, GDB, PyCharm, Jupyter, LaTex, Visual Studio, Altium Designer
 
@@ -63,11 +63,13 @@ Presentations
 
 Services
 ======
-* Reviewer of the IEEE Transactions on Networking
-* Reviewer of the IEEE Micro
-* Reviewer of the Information Fusion
-* Reviewer of the Conference on Neural Information Processing Systems
-* Reviewer of the European Conference on Artificial Intelligence
-* Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
-* Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
+* Journal Reviewer
+  * Reviewer of the IEEE Transactions on Networking
+  * Reviewer of the IEEE Micro
+  * Reviewer of the Information Fusion
+* Conference Reviewer
+  * Reviewer of the Conference on Neural Information Processing Systems
+  * Reviewer of the European Conference on Artificial Intelligence
+  * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
+  * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
 
