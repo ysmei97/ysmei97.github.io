@@ -12,7 +12,7 @@ redirect_from:
 Welcome to my website!
 ======
 
-My name is Yongsheng Mei, and I am currently a Ph.D. candidate at [the George Washington University](https://www.gwu.edu/) advised by [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/). My research primarily focuses on Bayesian optimization, reinforcement learning, and multi-agent learning. Before joining GWU, I was an undergraduate student in [Huazhong University of Science and Technology](https://www.hust.edu.cn/), where I earned my Bachelor's degree in Automation Engineering in 2019.
+My name is Yongsheng Mei, and I am currently a Ph.D. candidate at [the George Washington University](https://www.gwu.edu/) advised by [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/). My research primarily focuses on Bayesian optimization, reinforcement learning, and multi-agent learning. Before joining GWU, I was an undergraduate student in [Huazhong University of Science and Technology](https://english.hust.edu.cn/), where I earned my Bachelor's degree in Automation Engineering in 2019.
 
 Representative Papers
 ======
