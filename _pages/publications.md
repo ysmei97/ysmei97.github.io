@@ -6,10 +6,6 @@ author_profile: true
 ---
 This page shows my publications chronologically. You can also find them on my [Google Scholar](https://scholar.google.com/citations?user=y4Qyp24AAAAJ&hl=en).
 
-Preprint
-------
-
-
 Conference
 ------
 1. **Yongsheng Mei**, Mahdi Imani, and Tian Lan, *Bayesian Optimization through Gaussian Cox Process Models for Spatio-temporal Data*, International Conference on Learning Representations (ICLR), May 2024. [[PDF](https://ysmei97.github.io/files/papers/BO_GCP.pdf)]
