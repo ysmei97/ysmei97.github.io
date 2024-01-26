@@ -1,0 +1,6 @@
+@article{chen2023real,
+  title={Real-time Network Intrusion Detection via Decision Transformers},
+  author={Chen, Jingdi and Zhou, Hanhan and Mei, Yongsheng and Adam, Gina and Bastian, Nathaniel D and Lan, Tian},
+  journal={arXiv preprint arXiv:2312.07696},
+  year={2023}
+}

@@ -1,6 +1,10 @@
-@article{mei2022bayesian,
+@inproceedings{mei2023bayesian,
   title={A Bayesian Optimization Framework for Finding Local Optima in Expensive Multi-Modal Functions},
   author={Mei, Yongsheng and Lan, Tian and Imani, Mahdi and Subramaniam, Suresh},
-  journal={arXiv preprint arXiv:2210.06635},
-  year={2022}
+  booktitle={{ECAI} 2023 - 26th European Conference on Artificial Intelligence},
+  series={Frontiers in Artificial Intelligence and Applications},
+  volume={372},
+  pages={1704--1711},
+  publisher={{IOS} Press},
+  year={2023}
 }
