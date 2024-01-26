@@ -1,5 +1,5 @@
 @inproceedings{mei2021mpd,
-  title={MPD: Moving target defense through communication protocol dialects},
+  title={{MPD}: Moving target defense through communication protocol dialects},
   author={Mei, Yongsheng and Gogineni, Kailash and Lan, Tian and Venkataramani, Guru},
   booktitle={Security and Privacy in Communication Networks: 17th EAI International Conference, SecureComm 2021, Virtual Event, September 6--9, 2021, Proceedings, Part I 17},
   pages={100--119},
