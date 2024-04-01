@@ -5,7 +5,7 @@ title: "Projects"
 author_profile: true
 ---
 
-This page includes some projects I have done over the years, covering stochastic optimization, reinforcement learning, image segmentation, network security, etc.
+This page includes my projects over the years, covering stochastic optimization, reinforcement learning, image segmentation, network security, etc.
 
 ## Determining sub-optimal solution in an unknown function
 
@@ -21,6 +21,6 @@ We developed a multimodal Bayesian optimization (MBO) framework to locate a set 
 
 ## The multi-agent RL can be even trained faster
 
-## Remixing monotonic projection with an explanation
+## Remixing monotonic projection with theoretical explanation
 
 ## With protocol dialects, a windtalker
