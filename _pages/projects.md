@@ -5,21 +5,27 @@ title: "Projects"
 author_profile: true
 ---
 
-This page includes my projects over the years, covering stochastic optimization, reinforcement learning, image segmentation, network security, etc.
+This page includes my projects since 2019.
 
 <details>
 <summary><b>Table of Contents</b></summary>
 
-- [Determining the region of interest in discrete point data](#determining-roi-in-discrete-point-data)
-- [Unveiling sub-optimal solution of an unknown function](#unveiling-sub-optimal-solutions-of-an-unknown-function)
-- [Segment the precise brain tumor via attention to correlated information](#segment-the-precise-brain-tumor-via-attention-to-correlated-information)
-- [Prioritized sampling for multi-agent RL](#prioritized-sampling-for-multi-agent-rl)
-- [The multi-agent RL can be even trained faster](#the-multi-agent-rl-can-be-even-trained-faster)
-- [Remixing monotonic projection with theoretical explanation](#remixing-monotonic-projection-with-theoretical-explanation)
-- [With protocol dialects, a windtalker](#with-protocol-dialects-a-windtalker)
+- [Stochastic process and Bayesian optimization](#stochastic-process-and-bo)
+  - [Determining the region of interest in discrete point data](#determining-roi-in-discrete-point-data)
+  - [Unveiling sub-optimal solution of an unknown function](#unveiling-sub-optimal-solutions-of-an-unknown-function)
+- [Segmenting the precise tumor via attention to common information](#segment-the-precise-brain-tumor-via-attention-to-correlated-information)
+- [Reinforcement learning](#rl)
+  - [Prioritized sampling for multi-agent RL](#prioritized-sampling-for-multi-agent-rl)
+  - [The multi-agent RL can be even trained faster](#the-multi-agent-rl-can-be-even-trained-faster)
+  - [Remixing monotonic projection with theoretical explanation](#remixing-monotonic-projection-with-theoretical-explanation)
+- [Network security](#network-security)
+  - [With protocol dialects, a windtalker](#with-protocol-dialects-a-windtalker)
 
 </details>
 
+
+<a name="stochastic-process-and-bo"></a>
+# Stochastic process and Bayesian optimization
 
 <a name="determining-roi-in-discrete-point-data"></a>
 ## Determining regions of interest in discrete point data
@@ -38,7 +44,7 @@ We developed a multimodal [Bayesian optimization](https://en.wikipedia.org/wiki/
 
 
 <a name="segment-the-precise-brain-tumor-via-attention-to-correlated-information"></a>
-## Segment the precise brain tumor via attention to correlated information
+# Segmenting the precise tumor via attention to common information
 
 The multimodal data allows the identification of correlated information shared by different modalities, i.e., [common information](https://isl.stanford.edu/~abbas/presentations/lect00-viterbi.pdf), thus achieving better representations by the resulting neural networks. From the information theory perspective, the most informative structure between modalities represents the feature representation of one modality that carries the maximum amount of information toward another. To better measure the latent microstructure within the common information, we designed the partial common information mask (PCI-mask) to identify the latent partial common information shared by subsets of different modalities in finer granularity. The PCI-mask is optimized online in an unsupervised fashion during the learning.
 
@@ -46,6 +52,9 @@ Besides, we add a [self-attention](https://lilianweng.github.io/posts/2023-01-27
 
 The proposed method optimizes the common information in feature representations of multimodal brain tumor data inputs, which allows precise segmentation with attention to microstructures. The framework is evaluated on the public brain tumor dataset: [Multimodal Brain Tumor Segmentation Challenge](https://www.med.upenn.edu/cbica/brats2020/data.html), where we achieved the [Dice](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient) scores (median) of 0.920, 0.897, 0.837 for the whole tumor, tumor core, and enhancing tumor, respectively.
 
+
+<a name="rl"></a>
+# Reinforcement learning
 
 <a name="prioritized-sampling-for-multi-agent-rl"></a>
 ## Prioritized sampling for multi-agent RL
@@ -55,6 +64,10 @@ The proposed method optimizes the common information in feature representations 
 
 <a name="remixing-monotonic-projection-with-theoretical-explanation"></a>
 ## Remixing monotonic projection with theoretical explanation
+
+
+<a name="network-security"></a>
+# Network security
 
 <a name="with-protocol-dialects-a-windtalker"></a>
 ## With protocol dialects, a windtalker
