@@ -11,7 +11,7 @@ This page includes my projects over the years, covering stochastic optimization,
 <summary><b>Table of Contents</b></summary>
 
 - [Determining the region of interest in discrete point data](#determining-roi-in-discrete-point-data)
-- [Unveiling sub-optimal solution in an unknown function](#unveiling-sub-optimal-solutions-in-an-unknown-function)
+- [Unveiling sub-optimal solution of an unknown function](#unveiling-sub-optimal-solutions-of-an-unknown-function)
 - [Segment the precise brain tumor with attention to correlated information](#segment-the-precise-brain-tumor-with-attention-to-correlated-information)
 - [Prioritized sampling for multi-agent RL](#prioritized-sampling-for-multi-agent-rl)
 - [The multi-agent RL can be even trained faster](#the-multi-agent-rl-can-be-even-trained-faster)
@@ -29,8 +29,8 @@ To determine an optimal solution in the expensive unknown function, general Baye
 Therefore, we choose a doubly stochastic point process, the Gaussian [Cox process](https://en.wikipedia.org/wiki/Cox_process) (GCP) with a non-negative smooth [link function](https://en.wikipedia.org/wiki/Generalized_linear_model#Link_function) connecting the Poisson process with an underlying GP, as the surrogate model for intensity of point events, named point data Bayesian optimization (PDBO). We formulate a [Maximum *a posteriori*](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation) inference of the functional posterior of latent intensity and solve its mean and covariance via the [Laplace approximation](https://en.wikipedia.org/wiki/Laplace%27s_approximation) and kernel transformation in [reproducing kernel Hilbert space](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space). On top of that, we consider a wide range of special acquisition functions, such as detecting peak intensity, idle time, change point, and cumulative arrivals, through the underlying GCP model to efficiently discover regions of interest (ROIs) in a large discrete point dataset.
 
 
-<a name="unveiling-sub-optimal-solutions-in-an-unknown-function"></a>
-## Unveiling sub-optimal solutions in an unknown function 
+<a name="unveiling-sub-optimal-solutions-of-an-unknown-function"></a>
+## Unveiling sub-optimal solutions of an unknown function 
 
 Giving up the optimal solution while turning to a sub-optimal one is painful. However, even if finding all or most global optima is desired in many real-world problems that can be seen as multimodal optimization, implementing the optimal solutions is sometimes infeasible due to various practical restrictions, such as resource limitations, physical constraints, etc.
 
