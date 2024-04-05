@@ -13,6 +13,8 @@ Giving up the optimal solution while turning to a sub-optimal one is painful. Ho
 
 We developed a multimodal Bayesian optimization (MBO) framework to locate a set of local/global solutions of a given unknown expensive function. We derive the joint distribution of the objective function and its first-order gradients and introduce new acquisition functions backed by this joint distribution to decide local optima sequentially during optimization.
 
+![Alt text](https://ysmei97.github.io/files/projects/shubert.gif)
+
 ## Locating the RoI in discrete point data
 
 ## Segment the precise brain tumor with attention to correlated information
