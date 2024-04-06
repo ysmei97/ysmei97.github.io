@@ -47,7 +47,7 @@ We developed a **multimodal Bayesian optimization (MBO)** framework to locate a 
 <details>
 <summary><b>Shubert function animation</b></summary>
 <p align="center">
-  <img src="../files/projects/shubert.gif" alt="Shubert" style="width: 60%;">
+  <img src="../files/projects/shubert.gif" alt="Shubert" style="width: 30%;">
 </p>
 <p align="center"><i>Fig. Step-wise visualization of MBO on Shubert function.</i></p>
 </details>
