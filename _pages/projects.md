@@ -15,9 +15,9 @@ This page includes my projects since 2019.
   - [Unveiling sub-optimal solution of an unknown function](#unveiling-sub-optimal-solutions-of-an-unknown-function)
 - [Segmenting the precise tumor via attention to common information](#segment-the-precise-brain-tumor-via-attention-to-correlated-information)
 - [Reinforcement learning](#rl)
+  - [Remixing monotonic projection with theoretic explanation](#remixing-monotonic-projection-with-theoretical-explanation)
   - [Prioritized sampling for multi-agent RL](#prioritized-sampling-for-multi-agent-rl)
   - [The multi-agent RL can be trained faster](#the-multi-agent-rl-can-be-even-trained-faster)
-  - [Remixing monotonic projection with theoretical explanation](#remixing-monotonic-projection-with-theoretical-explanation)
 - [Network security](#network-security)
   - [With protocol dialects, a windtalker](#with-protocol-dialects-a-windtalker)
 
@@ -57,18 +57,20 @@ The proposed method optimizes the common information in feature representations 
 <a name="rl"></a>
 # Reinforcement learning
 
+<a name="remixing-monotonic-projection-with-theoretical-explanation"></a>
+## Remixing monotonic projection with theoretic explanation
+
+[Value function factorization](https://arxiv.org/pdf/1706.05296.pdf) is the prevalent approach to dealing with multi-agent RL problems. Many of these algorithms ensure the coherence between joint and local action selections for decentralized decision-making by factorizing the optimal joint action-value function using a monotonic mixing function of agent utilities. Despite this, utilizing monotonic mixing functions also induces representational limitations. We aim to find the optimal projection of an unconstrained mixing function onto monotonic function classes. The results obtained via solving an optimization problem defined as expected return **regret on [QMIX](https://arxiv.org/pdf/1803.11485.pdf) (ReMIX)** provide a theoretic explanation of the optimal projection to the intuitive weight assignment proposed in [WQMIX](https://arxiv.org/pdf/2006.10800.pdf).
+
 <a name="prioritized-sampling-for-multi-agent-rl"></a>
 ## Prioritized sampling for multi-agent RL
 
-We formulate a **multi-agent collective prioritization optimization (MAC-PO)** problem that defines the objective as the regret of the expected return and solves it to acquire the weight solution. Following the prioritized experience replay scheme, we extend the prioritized weight assignment to the multi-agent RL scenario, where the agents' individual action-value functions contribute to determining the weights. Specifically, we use several case studies to illustrate our findings.
+We formulate a **multi-agent collective prioritization optimization (MAC-PO)** problem and solve it to acquire the optimal weight solution to emphasize the importance of the trajectories. Following the [prioritized experience replay](https://arxiv.org/pdf/1511.05952.pdf) scheme, we extend the prioritized weight assignment to the multi-agent RL scenario, where the agents' individual action-value functions contribute to determining the weights. Specifically, we use several case studies to illustrate our findings.
 
 <a name="the-multi-agent-rl-can-be-even-trained-faster"></a>
 ## The multi-agent RL can be trained faster
 
 The sampling phase matters in off-policy RL, where a batch of transitions is uniformly sampled from the memory replay buffer in normal circumstances. We identified the bottleneck during this sampling stage, and to handle it, we can reuse a set of transitions we have already sampled from the replay buffer. We designed an acceleration framework in multi-agent off-policy RL. This data reuse strategy will **accelerate the multi-agent experience replay (AccMER)** guided by the priority weights.
-
-<a name="remixing-monotonic-projection-with-theoretical-explanation"></a>
-## Remixing monotonic projection with theoretical explanation
 
 
 <a name="network-security"></a>
@@ -76,3 +78,4 @@ The sampling phase matters in off-policy RL, where a batch of transitions is uni
 
 <a name="with-protocol-dialects-a-windtalker"></a>
 ## With protocol dialects, a windtalker
+What is the protocol dialect? Given a standard communication protocol, a dialect is defined as a variation created by mutating its packets and handshakes while keeping the communication functionalities unchanged. Like two [code talkers](https://en.wikipedia.org/wiki/Windtalkers) on the client and server sides, they speak a specific dialect that is not understandable to outsiders. We design the **[moving target defense](https://csrc.nist.gov/glossary/term/moving_target_defense) with generated protocol dialects (MPD)** to mutate the dialect dynamically for each handshake in a network system. Besides, we incorporated the self-synchronization mechanism (inspired by the [self-synchronizing stream cipher](https://en.wikipedia.org/wiki/Stream_cipher#Self-synchronizing_stream_ciphers) to ensure the synchronization of both sides and minimize the cost when encountering a disaster. All generated protocol dialects are managed through the [consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing) mapping. The system has been evaluated for multiple common network and [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things) protocols, such as [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol), [HTTP](https://en.wikipedia.org/wiki/HTTP), [MQTT](https://en.wikipedia.org/wiki/MQTT), [CAN bus](https://en.wikipedia.org/wiki/CAN_bus), etc.
