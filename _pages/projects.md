@@ -60,6 +60,8 @@ The proposed method optimizes the common information in feature representations 
 <a name="rl"></a>
 # Reinforcement learning
 
+About [Reinforcement learning (RL)](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
+
 <a name="remixing-monotonic-projection-with-theoretical-explanation"></a>
 ## Remixing monotonic projection with theoretic explanation
 
