@@ -44,6 +44,15 @@ Giving up the optimal solution while turning to a sub-optimal one is painful. Ho
 
 We developed a **multimodal Bayesian optimization (MBO)** framework to locate a set of local/global solutions of a given unknown expensive function. We derive the joint distribution of the objective function and its first-order gradients (that are not considered in standard BO frameworks) and introduce new acquisition functions backed by this joint distribution to decide local optima sequentially during optimization.
 
+<details>
+<summary><b>Shubert function animation</b></summary>
+<p align="center">
+  <img src="../files/projects/shubert.gif" alt="Shubert" style="width: 60%;">
+</p>
+<p align="center"><i>Fig. Step-wise visualization of MBO on Shubert function.</i></p>
+</details>
+
+
 <a name="medical-image-segmentation"></a>
 # Medical image segmentation
 
@@ -58,7 +67,7 @@ The proposed method optimizes the common information in feature representations 
 
 **System diagram**
 <p align="center">
-  <img src="../files/projects/sys_full.png" alt="sys_full" style="width: 60%;" align="center">
+  <img src="../files/projects/sys_full.png" alt="sys_full" style="width: 60%;">
 </p>
 <p align="center"><i>Fig. The system architecture (a), Masked Maximal Correlation (MMC) module (b), and Masked Self-Attention (MSA) module (c).</i></p>
 
@@ -66,7 +75,7 @@ The proposed method optimizes the common information in feature representations 
 <summary><b>Segmention results</b></summary>
 <br />
 <p align="center">
-  <img src="../files/projects/seg.png" alt="seg" style="width: 60%;" align="center">
+  <img src="../files/projects/seg.png" alt="seg" style="width: 60%;">
 </p>
 <p align="center"><i>Fig. Visualization of segmentation results. From left to right, we show axial slices of MRI images in four modalities, predicted <br \> segmentation, and ground truth. Labels include ED (cyan), ET (yellow), and NCR/NET (blue) for prediction and ground truth.</i></p>
 </details>
