@@ -13,7 +13,8 @@ This page includes my projects since 2019.
 - [Stochastic process and Bayesian optimization](#stochastic-process-and-bo)
   - [Determining the region of interest in discrete point data](#determining-roi-in-discrete-point-data)
   - [Unveiling sub-optimal solution of an unknown function](#unveiling-sub-optimal-solutions-of-an-unknown-function)
-- [Segmenting the precise tumor via attention to common information](#segment-the-precise-brain-tumor-via-attention-to-correlated-information)
+- [Medical image segmentation](#medical-image-segmentation)
+  - [Segmenting the precise brain tumor via attention to common information](#segment-the-precise-brain-tumor-via-attention-to-correlated-information)
 - [Reinforcement learning](#rl)
   - [Remixing monotonic projection with theoretic explanation](#remixing-monotonic-projection-with-theoretical-explanation)
   - [Prioritized sampling for multi-agent RL](#prioritized-sampling-for-multi-agent-rl)
@@ -43,9 +44,11 @@ Giving up the optimal solution while turning to a sub-optimal one is painful. Ho
 
 We developed a **multimodal Bayesian optimization (MBO)** framework to locate a set of local/global solutions of a given unknown expensive function. We derive the joint distribution of the objective function and its first-order gradients (that are not considered in standard BO frameworks) and introduce new acquisition functions backed by this joint distribution to decide local optima sequentially during optimization.
 
+<a name="medical-image-segmentation"></a>
+# Medical image segmentation
 
 <a name="segment-the-precise-brain-tumor-via-attention-to-correlated-information"></a>
-# Segmenting the precise tumor via attention to common information
+## Segmenting the precise brain tumor via attention to common information
 
 The multimodal data allows the identification of correlated information shared by different modalities, i.e., [common information](https://isl.stanford.edu/~abbas/presentations/lect00-viterbi.pdf), thus achieving better representations by the resulting neural networks. From the information theory perspective, the most informative structure between modalities represents the feature representation of one modality that carries the maximum amount of information toward another. To better measure the latent microstructure within the common information, we designed the **partial common information mask (PCI-mask)** to identify the latent partial common information shared by subsets of different modalities in finer granularity. The PCI-mask is optimized online in an unsupervised fashion during the learning.
 
