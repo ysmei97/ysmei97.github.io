@@ -56,14 +56,19 @@ Besides, we add a [self-attention](https://lilianweng.github.io/posts/2023-01-27
 
 The proposed method optimizes the common information in feature representations of multimodal brain tumor data inputs, which allows precise segmentation with attention to microstructures. The framework is evaluated on the public brain tumor dataset: [Multimodal Brain Tumor Segmentation Challenge](https://www.med.upenn.edu/cbica/brats2020/data.html), where we achieved the [Dice](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient) scores (median) of 0.920, 0.897, 0.837 for the whole tumor, tumor core, and enhancing tumor, respectively.
 
+**System diagram**
+<p align="center">
+  <img src="../files/projects/sys_full.png" alt="sys_full" style="width: 60%;" align="center">
+</p>
+<p align="center"><i>Fig. The system architecture (a), Masked Maximal Correlation (MMC) module (b), and Masked Self-Attention (MSA) module (c).</i></p>
+
 <details>
-<summary><b>Segmention visulization</b></summary>
+<summary><b>Segmention results</b></summary>
 <br />
 <p align="center">
   <img src="../files/projects/seg.png" alt="seg" style="width: 60%;" align="center">
 </p>
-<figcaption><i><s1>Fig. Visualization of segmentation results. From left to right, we show axial slices of MRI images in four modalities, predicted segmentation, and ground truth. Labels include ED (cyan), ET (yellow), and NCR/NET (blue) for prediction and ground truth.</s1></i></figcaption>
-
+<p align="center"><i>Fig. Visualization of segmentation results. From left to right, we show axial slices of MRI images in four modalities, predicted <br \> segmentation, and ground truth. Labels include ED (cyan), ET (yellow), and NCR/NET (blue) for prediction and ground truth.</i></p>
 </details>
 
 
