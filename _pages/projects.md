@@ -9,19 +9,19 @@ This page includes my projects since 2019.
 
 <details>
 <summary><b>Table of Contents</b></summary>
-
-- [Stochastic process and Bayesian optimization](#stochastic-process-and-bo)
-  - [Determining the region of interest in discrete point data](#determining-roi-in-discrete-point-data)
-  - [Unveiling sub-optimal solution of an unknown function](#unveiling-sub-optimal-solutions-of-an-unknown-function)
-- [Medical image segmentation](#medical-image-segmentation)
-  - [Segmenting the precise brain tumor via attention to common information](#segment-the-precise-brain-tumor-via-attention-to-correlated-information)
-- [Reinforcement learning](#rl)
-  - [Remixing monotonic projection with theoretic explanation](#remixing-monotonic-projection-with-theoretical-explanation)
-  - [Prioritized sampling for multi-agent RL](#prioritized-sampling-for-multi-agent-rl)
-  - [Accelerating multi-agent RL](#the-multi-agent-rl-can-be-even-trained-faster)
-- [Network security](#network-security)
-  - [With protocol dialects, a windtalker](#with-protocol-dialects-a-windtalker)
-
+  
+* <a href="stochastic-process-and-bo">Stochastic process and Bayesian optimization</a>
+  * <a href="determining-roi-in-discrete-point-data">Determining the region of interest in discrete point data</a>
+  * <a href="unveiling-sub-optimal-solutions-of-an-unknown-function">Unveiling sub-optimal solution of an unknown function</a>
+* <a href="medical-image-segmentation">Medical image segmentation</a>
+  * <a href="segment-the-precise-brain-tumor-via-attention-to-correlated-information">Segmenting the precise brain tumor via attention to common information</a>
+* <a href="rl">Reinforcement learning</a>
+  * <a href="remixing-monotonic-projection-with-theoretical-explanation">Remixing monotonic projection with theoretic explanation</a>
+  * <a href="prioritized-sampling-for-multi-agent-rl">Prioritized sampling for multi-agent RL</a>
+  * <a href="the-multi-agent-rl-can-be-even-trained-faster">Accelerating multi-agent RL</a>
+* <a href="network-security">Network security</a>
+  * <a href="with-protocol-dialects-a-windtalker">With protocol dialects, a windtalker</a>
+  
 </details>
 
 
