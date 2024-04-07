@@ -102,12 +102,20 @@ The proposed method optimizes the common information in feature representations 
 <a name="rl"></a>
 # Reinforcement learning
 
-About [Reinforcement learning (RL)](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
+About [reinforcement learning (RL)](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
 
 <a name="remixing-monotonic-projection-with-theoretical-explanation"></a>
 ## Remixing monotonic projection with theoretic explanation
 
 [Value function factorization](https://arxiv.org/pdf/1706.05296.pdf) is the prevalent approach to dealing with multi-agent RL problems. Many of these algorithms ensure the coherence between joint and local action selections for decentralized decision-making by factorizing the optimal joint action-value function using a monotonic mixing function of agent utilities. Despite this, utilizing monotonic mixing functions also induces representational limitations. We aim to find the optimal projection of an unconstrained mixing function onto monotonic function classes. The results obtained via solving an optimization problem defined as expected return **regret on [QMIX](https://arxiv.org/pdf/1803.11485.pdf) (ReMIX)** provide a theoretic explanation of the optimal projection to the intuitive weight assignment proposed in [WQMIX](https://arxiv.org/pdf/2006.10800.pdf).
+
+<details>
+<summary><b>Mean reward on <a href="https://arxiv.org/pdf/1910.00091.pdf">Predator-Prey</a></b></summary>
+<p align="center">
+  <img src="../files/projects/pp.png" alt="pp" style="width: 80%;">
+</p>
+<p align="center"><i>Fig. Average reward per episode on the Predator-Prey tasks of four punishment levels.</i></p>
+</details>
 
 <a name="prioritized-sampling-for-multi-agent-rl"></a>
 ## Prioritized sampling for multi-agent RL
@@ -118,6 +126,14 @@ We formulate a **multi-agent collective prioritization optimization (MAC-PO)** p
 ## The multi-agent RL can be trained faster
 
 The sampling phase matters in off-policy RL, where a batch of transitions is uniformly sampled from the memory replay buffer in normal circumstances. We identified the bottleneck during this sampling stage, and to handle it, we can reuse a set of transitions we have already sampled from the replay buffer. We designed an acceleration framework in multi-agent off-policy RL. This data reuse strategy will **accelerate the multi-agent experience replay (AccMER)** guided by the priority weights.
+
+<details>
+<summary><b>Illustration of data reuse</b></summary>
+<p align="center">
+  <img src="../files/projects/accmer.png" alt="acc" style="width: 60%;">
+</p>
+<p align="left"><i>Fig. Illustration of (a) conventional sampling, where gray-filled boxes denote the uniformly sampled transitions from the replay buffer, and (b) data reuse sampling. In the figure, we sample 50% and reuse the rest of the transitions (reuse ratio = 0.5, batch size b = 6, replay buffer D is a 4×4 matrix), and the number of reuses (time-steps) n = 2. At step T = 1, as the data reuse ratio is 0.5, AccMER selects the first three transitions with the highest weights, and in the next phase, uniform sampling is performed on the remaining three transitions. At step T = 2, the same transition data will be reused, whereas a new set of transitions is sampled randomly. Since n = 2, the reuse-based transition data updates every two steps (e.g., T = 2 and T = 4).</i></p>
+</details>
 
 
 <a name="network-security"></a>
