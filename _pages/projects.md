@@ -37,7 +37,7 @@ To determine an optimal solution in the expensive unknown function, general Baye
 Therefore, we choose a doubly stochastic point process, the Gaussian [Cox process](https://en.wikipedia.org/wiki/Cox_process) (GCP) with a non-negative smooth [link function](https://en.wikipedia.org/wiki/Generalized_linear_model#Link_function) (connecting the Poisson process with an underlying GP) as the surrogate model for point event intensity to achieve our **point data Bayesian optimization (PDBO)**. We formulate a [Maximum *a posteriori*](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation) inference of the functional posterior of latent intensity and solve its mean and covariance via the [Laplace approximation](https://en.wikipedia.org/wiki/Laplace%27s_approximation) and kernel transformation in [reproducing kernel Hilbert space](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space). On top of that, we consider a wide range of special acquisition functions, such as detecting peak intensity, idle time, [change point](https://en.wikipedia.org/wiki/Change_detection), and cumulative arrivals, through the underlying GCP model to efficiently discover regions of interest (ROIs) in a large discrete point dataset.
 
 <p align="center">
-  <img src="../files/projects/gcp_bo.png" alt="gcp_bo" style="width: 60%;">
+  <img src="../files/projects/gcp_bo.png" alt="gcp_bo" style="width: 65%;">
 </p>
 <p align="center"><i>Fig. Bayesian optimization using Gaussian Cox process model on discrete point data.</i></p>
 
@@ -58,7 +58,7 @@ Giving up the optimal solution while turning to a sub-optimal one is painful. Ho
 We developed a **multimodal Bayesian optimization (MBO)** framework to locate a set of local/global solutions of a given unknown expensive function. We derive the joint distribution of the objective function and its first-order gradients (that are not considered in standard BO frameworks) and introduce new acquisition functions backed by this joint distribution to decide local optima sequentially during optimization.
 
 <p align="center">
-  <img src="../files/projects/mbo.png" alt="mbo" style="width: 60%;">
+  <img src="../files/projects/mbo.png" alt="mbo" style="width: 65%;">
 </p>
 <p align="center"><i>Fig. Multi-modal Bayesian optimization.</i></p>
 
@@ -85,7 +85,7 @@ The proposed method optimizes the common information in feature representations 
 
  **System diagram**
 <p align="center">
-  <img src="../files/projects/sys_full.png" alt="sys_full" style="width: 60%;">
+  <img src="../files/projects/sys_full.png" alt="sys_full" style="width: 65%;">
 </p>
 <p align="center"><i>Fig. The system architecture (a), Masked Maximal Correlation (MMC) module (b), and Masked Self-Attention (MSA) module (c).</i></p>
 
@@ -95,7 +95,7 @@ The proposed method optimizes the common information in feature representations 
 <p align="center">
   <img src="../files/projects/seg.png" alt="seg" style="width: 60%;">
 </p>
-<p align="center"><i>Fig. Visualization of segmentation results. From left to right, we show axial slices of MRI images in four modalities, predicted <br \> segmentation, and ground truth. Labels include ED (cyan), ET (yellow), and NCR/NET (blue) for prediction and ground truth.</i></p>
+<p align="center"><i>Fig. Visualization of segmentation results. From left to right, we show axial slices of MRI images in four modalities, predicted segmentation, and ground truth. Labels include ED (cyan), ET (yellow), and NCR/NET (blue) for prediction and ground truth.</i></p>
 </details>
 
 
@@ -127,7 +127,7 @@ We formulate a **multi-agent collective prioritization optimization (MAC-PO)** p
 <p align="center">
   <img src="../files/projects/smac.png" alt="smac" style="width: 80%;">
 </p>
-<p align="center"><i>Fig. Comparison between MAC-PO and other adapted experience replay methods on three SMAC maps (from hard <br \> to super hard), where MAC-PO outperforms the runner-up by 10%, 6%, and 4% on each map, respectively.</i></p>
+<p align="center"><i>Fig. Comparison between MAC-PO and other adapted experience replay methods on three SMAC maps (from hard to super hard), where MAC-PO outperforms the runner-up by 10%, 6%, and 4% on each map, respectively.</i></p>
 </details>
 
 <a name="the-multi-agent-rl-can-be-even-trained-faster"></a>
@@ -153,9 +153,9 @@ What is the protocol dialect? Given a standard communication protocol, a dialect
 
 **System diagram**
 <p align="center">
-  <img src="../files/projects/sys.png" alt="sys" style="width: 60%;">
+  <img src="../files/projects/sys.png" alt="sys" style="width: 65%;">
 </p>
-<p align="center"><i>Fig. MPD system diagram, including Moving Target Customization (MTC), Self-Synchronization <br \> Mechanism (SSM), and Protocol Dialect Management (PDM) modules.</i></p>
+<p align="center"><i>Fig. MPD system diagram, including Moving Target Customization (MTC), Self-Synchronization Mechanism (SSM), and Protocol Dialect Management (PDM) modules.</i></p>
 
 <details>
 <summary><b>Self-synchronization</b></summary>
