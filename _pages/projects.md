@@ -9,19 +9,31 @@ This page includes my projects since 2019.
 
 <details>
 <summary><b>Table of Contents</b></summary>
-  
-* <a href="stochastic-process-and-bo">Stochastic process and Bayesian optimization</a>
-  * <a href="determining-roi-in-discrete-point-data">Determining the region of interest in discrete point data</a>
-  * <a href="unveiling-sub-optimal-solutions-of-an-unknown-function">Unveiling sub-optimal solution of an unknown function</a>
-* <a href="medical-image-segmentation">Medical image segmentation</a>
-  * <a href="segment-the-precise-brain-tumor-via-attention-to-correlated-information">Segmenting the precise brain tumor via attention to common information</a>
-* <a href="rl">Reinforcement learning</a>
-  * <a href="remixing-monotonic-projection-with-theoretical-explanation">Remixing monotonic projection with theoretic explanation</a>
-  * <a href="prioritized-sampling-for-multi-agent-rl">Prioritized sampling for multi-agent RL</a>
-  * <a href="the-multi-agent-rl-can-be-even-trained-faster">Accelerating multi-agent RL</a>
-* <a href="network-security">Network security</a>
-  * <a href="with-protocol-dialects-a-windtalker">With protocol dialects, a windtalker</a>
-  
+<ul>
+  <li><a href="stochastic-process-and-bo">Stochastic process and Bayesian optimization</a>
+    <ul>
+      <li><a href="determining-roi-in-discrete-point-data">Determining the region of interest in discrete point data</a></li>
+      <li><a href="unveiling-sub-optimal-solutions-of-an-unknown-function">Unveiling sub-optimal solution of an unknown function</a></li>
+    </ul>
+  </li>
+  <li><a href="medical-image-segmentation">Medical image segmentation</a>
+    <ul>
+      <li><a href="segment-the-precise-brain-tumor-via-attention-to-correlated-information">Segmenting the precise brain tumor via attention to common information</a></li>
+    </ul>
+  </li>
+  <li><a href="rl">Reinforcement learning</a>
+    <ul>
+      <li><a href="remixing-monotonic-projection-with-theoretical-explanation">Remixing monotonic projection with theoretic explanation</a></li>
+      <li><a href="prioritized-sampling-for-multi-agent-rl">Prioritized sampling for multi-agent RL</a></li>
+      <li><a href="the-multi-agent-rl-can-be-even-trained-faster">Accelerating multi-agent RL</a></li>
+    </ul>
+  </li>
+  <li><a href="network-security">Network security</a>
+    <ul>
+      <li><a href="with-protocol-dialects-a-windtalker">With protocol dialects, a windtalker</a></li>
+    </ul>
+  </li>
+</ul>
 </details>
 
 
