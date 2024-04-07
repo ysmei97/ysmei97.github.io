@@ -108,3 +108,19 @@ The sampling phase matters in off-policy RL, where a batch of transitions is uni
 <a name="with-protocol-dialects-a-windtalker"></a>
 ## With protocol dialects, a windtalker
 What is the protocol dialect? Given a standard communication protocol, a dialect is defined as a variation created by mutating its packets and handshakes while keeping the communication functionalities unchanged. Like two [code talkers](https://en.wikipedia.org/wiki/Windtalkers) on the client and server sides, they speak a specific dialect that is not understandable to outsiders. We design the **[moving target defense](https://csrc.nist.gov/glossary/term/moving_target_defense) with generated protocol dialects (MPD)** to mutate the dialect dynamically for each handshake in a network system. Besides, we incorporated the self-synchronization mechanism (inspired by the [self-synchronizing stream cipher](https://en.wikipedia.org/wiki/Stream_cipher#Self-synchronizing_stream_ciphers) to ensure the synchronization of both sides and minimize the cost when encountering a disaster. All generated protocol dialects are managed through the [consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing) mapping. The system has been evaluated for multiple common network and [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things) protocols, such as [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol), [HTTP](https://en.wikipedia.org/wiki/HTTP), [MQTT](https://en.wikipedia.org/wiki/MQTT), [CAN bus](https://en.wikipedia.org/wiki/CAN_bus), etc.
+
+**System diagram**
+<p align="center">
+  <img src="../files/projects/sys.png" alt="sys" style="width: 60%;">
+</p>
+<p align="center"><i>Fig. MPD system diagram, including Moving Target Customization (MTC), Self-Synchronization <br \> Mechanism (SSM), and Protocol Dialect Management (PDM) modules.</i></p>
+
+<details>
+<summary><b>Self-synchronization</b></summary>
+
+<p align="center">
+  <img src="../files/projects/syn.png" alt="syn" style="width: 50%;">
+</p>
+<p align="center"><i>Fig. Self-synchronization mechanism. The system will re-establish the right dialect communication quickly after the disaster happens.</i></p>
+
+</details>
