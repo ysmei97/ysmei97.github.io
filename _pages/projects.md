@@ -10,27 +10,27 @@ This page includes my projects since 2019.
 <details>
 <summary><b>Table of Contents</b></summary>
 <ul>
-  <li><a href="stochastic-process-and-bo">Stochastic process and Bayesian optimization</a>
+  <li><a href="#stochastic-process-and-bo">Stochastic process and Bayesian optimization</a>
     <ul>
-      <li><a href="determining-roi-in-discrete-point-data">Determining the region of interest in discrete point data</a></li>
-      <li><a href="unveiling-sub-optimal-solutions-of-an-unknown-function">Unveiling sub-optimal solution of an unknown function</a></li>
+      <li><a href="#determining-roi-in-discrete-point-data">Determining the region of interest in discrete point data</a></li>
+      <li><a href="#unveiling-sub-optimal-solutions-of-an-unknown-function">Unveiling sub-optimal solution of an unknown function</a></li>
     </ul>
   </li>
-  <li><a href="medical-image-segmentation">Medical image segmentation</a>
+  <li><a href="#medical-image-segmentation">Medical image segmentation</a>
     <ul>
-      <li><a href="segment-the-precise-brain-tumor-via-attention-to-correlated-information">Segmenting the precise brain tumor via attention to common information</a></li>
+      <li><a href="#segment-the-precise-brain-tumor-via-attention-to-common-information">Segmenting the precise brain tumor via attention to common information</a></li>
     </ul>
   </li>
-  <li><a href="rl">Reinforcement learning</a>
+  <li><a href="#rl">Reinforcement learning</a>
     <ul>
-      <li><a href="remixing-monotonic-projection-with-theoretical-explanation">Remixing monotonic projection with theoretic explanation</a></li>
-      <li><a href="prioritized-sampling-for-multi-agent-rl">Prioritized sampling for multi-agent RL</a></li>
-      <li><a href="the-multi-agent-rl-can-be-even-trained-faster">Accelerating multi-agent RL</a></li>
+      <li><a href="#remixing-monotonic-projection-with-theoretic-explanation">Remixing monotonic projection with theoretic explanation</a></li>
+      <li><a href="#prioritized-sampling-for-multi-agent-rl">Prioritized sampling for multi-agent RL</a></li>
+      <li><a href="#accelerating-multi-agent-rl">Accelerating multi-agent RL</a></li>
     </ul>
   </li>
-  <li><a href="network-security">Network security</a>
+  <li><a href="#network-security">Network security</a>
     <ul>
-      <li><a href="with-protocol-dialects-a-windtalker">With protocol dialects, a windtalker</a></li>
+      <li><a href="#with-protocol-dialects-a-windtalker">With protocol dialects, a windtalker</a></li>
     </ul>
   </li>
 </ul>
@@ -86,7 +86,7 @@ We developed a **multimodal Bayesian optimization (MBO)** framework to locate a 
 <a name="medical-image-segmentation"></a>
 # Medical image segmentation
 
-<a name="segment-the-precise-brain-tumor-via-attention-to-correlated-information"></a>
+<a name="segment-the-precise-brain-tumor-via-attention-to-common-information"></a>
 ## Segmenting the precise brain tumor via attention to common information
 
 The multimodal data allows the identification of correlated information shared by different modalities, i.e., [common information](https://isl.stanford.edu/~abbas/presentations/lect00-viterbi.pdf), thus achieving better representations by the resulting neural networks. From the information theory perspective, the most informative structure between modalities represents the feature representation of one modality that carries the maximum amount of information toward another. To better measure the latent microstructure within the common information, we designed the **partial common information mask (PCI-mask)** to identify the latent partial common information shared by subsets of different modalities in finer granularity. The PCI-mask is optimized online in an unsupervised fashion during the learning.
@@ -116,7 +116,7 @@ The proposed method optimizes the common information in feature representations 
 
 About [reinforcement learning (RL)](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
 
-<a name="remixing-monotonic-projection-with-theoretical-explanation"></a>
+<a name="remixing-monotonic-projection-with-theoretic-explanation"></a>
 ## Remixing monotonic projection with theoretic explanation
 
 [Value function factorization](https://arxiv.org/pdf/1706.05296.pdf) is the prevalent approach to dealing with multi-agent RL problems. Many of these algorithms ensure the coherence between joint and local action selections for decentralized decision-making by factorizing the optimal joint action-value function using a monotonic mixing function of agent utilities. Despite this, utilizing monotonic mixing functions also induces representational limitations. We aim to find the optimal projection of an unconstrained mixing function onto monotonic function classes. The results obtained via solving an optimization problem defined as expected return **regret on [QMIX](https://arxiv.org/pdf/1803.11485.pdf) (ReMIX)** provide a theoretic explanation of the optimal projection to the intuitive weight assignment proposed in [WQMIX](https://arxiv.org/pdf/2006.10800.pdf).
@@ -142,7 +142,7 @@ We formulate a **multi-agent collective prioritization optimization (MAC-PO)** p
 <p align="center"><i>Fig. Comparison between MAC-PO and other adapted experience replay methods on three SMAC maps (from hard to super hard), where MAC-PO outperforms the runner-up by 10%, 6%, and 4% on each map, respectively.</i></p>
 </details>
 
-<a name="the-multi-agent-rl-can-be-even-trained-faster"></a>
+<a name="accelerating-multi-agent-rl"></a>
 ## Accelerating multi-agent RL
 
 The sampling phase matters in off-policy RL, where a batch of transitions is uniformly sampled from the memory replay buffer in normal circumstances. We identified the bottleneck during this sampling stage, and to handle it, we can reuse a set of transitions we have already sampled from the replay buffer. We designed an acceleration framework in multi-agent off-policy RL. This data reuse strategy will **accelerate the multi-agent experience replay (AccMER)** guided by the priority weights.
