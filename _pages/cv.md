@@ -13,7 +13,7 @@ For exhaustive details, please see my [CV](http://ysmei97.github.io/files/cv.pdf
 Education
 ======
 * Ph.D. in Electrical Engineering, The George Washington University, 2024 (expected)
-* B.E. in Automation Engineering, Huazhong University of Science and Technology (HUST), 2019
+* B.E. in Automation Engineering, Huazhong University of Science and Technology, 2019
 
 Experience
 ======
@@ -42,14 +42,14 @@ Experience
   * **Responsibilities**: Research, experiment, coding, technical writing
   * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux Bash, Git.
 
-* Summer 2023: Visiting Scholar
+* Summer 2023: Visiting Researcher
   * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
   * Developing a class-incremental federated learning model with time-variant input of each edge device by using the diffusion generative model for the server and clients to learn better performance.
   * **Responsibilities**: Continual federated learning problem formulation, generative models design, experiment 
   * **Highlights**: Python, PyTorch.
 
 * Spring & Summer 2017: Electronic Engineer Student Intern
-  * Electrical and Electronic Technology Innovation Center, HUST
+  * HUST Electrical and Electronic Technology Innovation Center
   * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter.
   * **Responsibilities**: Printed circuit board design, FPGA programming
   * **Highlights**: The work achieved the runner-up prize in the 2017 national undergraduate electronic design contest.
@@ -77,9 +77,9 @@ Services
   * Reviewer of the IEEE Micro
   * Reviewer of the Information Fusion
 * Conference Reviewer
-  * Reviewer of the Conference on Neural Information Processing Systems (NeurIPS)
-  * Reviewer of the International Conference on Machine Learning (ICML)
-  * Reviewer of the European Conference on Artificial Intelligence (ECAI)
-  * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
-  * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data (ML4MHD)
+  * Reviewer of the Conference on Neural Information Processing Systems
+  * Reviewer of the International Conference on Machine Learning
+  * Reviewer of the European Conference on Artificial Intelligence
+  * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
+  * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
 
