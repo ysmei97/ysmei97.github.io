@@ -13,12 +13,17 @@ For exhaustive details, please see my [CV](http://ysmei97.github.io/files/cv.pdf
 Education
 ======
 * Ph.D. in Electrical Engineering, The George Washington University, 2024 (expected)
-* B.E. in Automation, Huazhong University of Science and Technology (HUST), 2019
+* B.E. in Automation Engineering, Huazhong University of Science and Technology (HUST), 2019
 
 Experience
 ======
 * 2019 -- present: Research Assistant
   * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
+  * Working on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
+  * **Responsibilities**: Research, experiment, coding, technical writing
+  * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux bash, Git.
+
+<!---
   * **Topic 1**: Bayesian optimization (BO)
     * Develop a novel gradient-aware BO algorithm to locate local optima in multimodal functions and a BO model for doubly stochastic point process for spatio-temporal data.
     * *Responsibilities*: Theoretical derivation, time series analysis, experiment
@@ -35,16 +40,18 @@ Experience
     * Develop a reliable application-layer moving target defense model via customized communication protocols and dynamic synchronization and management.
     * *Responsibilities*: protocol analysis, moving target design, self-synchronization design, experiment
     * *Highlights*: C, Python, Linux kernel
+--->
+
 * Summer 2023: Visiting Scholar
   * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
   * Developing a class-incremental federated learning model with time-variant input of each edge device by using the diffusion generative model for the server and clients to learn better performance.
-  * *Responsibilities*: Continual federated learning problem formulation, generative models design, experiment 
-  * *Highlights*: Python, PyTorch.
+  * **Responsibilities**: Continual federated learning problem formulation, generative models design, experiment 
+  * **Highlights**: Python, PyTorch.
 * Summer 2017: Electronic Engineer Student Intern
   * Electrical and Electronic Technology Innovation Center, HUST
-  * Designed the printed circuit board and performed FPGA programming for the adaptive signal filter.
-  * *Responsibilities*: Printed circuit board design, FPGA programming
-  * *Highlights*: The work achieved the Second Prize of Hubei province in the 2017 national undergraduate electronic design contest.
+  * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter.
+  * **Responsibilities**: Printed circuit board design, FPGA programming
+  * **Highlights**: The work achieved the runner-up prize in the 2017 national undergraduate electronic design contest.
   
 Skills
 ======
