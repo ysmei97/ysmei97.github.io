@@ -107,7 +107,7 @@ The proposed method optimizes the common information in feature representations 
 <p align="center">
   <img src="../files/projects/seg.png" alt="seg" style="width: 60%;">
 </p>
-<p align="center"><i>Fig. Visualization of segmentation results. From left to right, we show axial slices of MRI images in four modalities, predicted segmentation, and ground truth. Labels include ED (cyan), ET (yellow), and NCR/NET (blue) for prediction and ground truth.</i></p>
+<p align="left"><i>Fig. Visualization of segmentation results. From left to right, we show axial slices of MRI images in four modalities, predicted segmentation, and ground truth. Labels include ED (cyan), ET (yellow), and NCR/NET (blue) for prediction and ground truth.</i></p>
 </details>
 
 
@@ -139,7 +139,7 @@ We formulate a **multi-agent collective prioritization optimization (MAC-PO)** p
 <p align="center">
   <img src="../files/projects/smac.png" alt="smac" style="width: 80%;">
 </p>
-<p align="center"><i>Fig. Comparison between MAC-PO and other adapted experience replay methods on three SMAC maps (from hard to super hard), where MAC-PO outperforms the runner-up by 10%, 6%, and 4% on each map, respectively.</i></p>
+<p align="left"><i>Fig. Comparison between MAC-PO and other adapted experience replay methods on three SMAC maps (from hard to super hard), where MAC-PO outperforms the runner-up by 10%, 6%, and 4% on each map, respectively.</i></p>
 </details>
 
 <a name="accelerating-multi-agent-rl"></a>
@@ -167,7 +167,7 @@ What is the protocol dialect? Given a standard communication protocol, a dialect
 <p align="center">
   <img src="../files/projects/sys.png" alt="sys" style="width: 65%;">
 </p>
-<p align="center"><i>Fig. MPD system diagram, including Moving Target Customization (MTC), Self-Synchronization Mechanism (SSM), and Protocol Dialect Management (PDM) modules.</i></p>
+<p align="left"><i>Fig. MPD system diagram, including Moving Target Customization (MTC), Self-Synchronization Mechanism (SSM), and Protocol Dialect Management (PDM) modules.</i></p>
 
 <details>
 <summary><b>Self-synchronization</b></summary>
@@ -175,6 +175,6 @@ What is the protocol dialect? Given a standard communication protocol, a dialect
 <p align="center">
   <img src="../files/projects/syn.png" alt="syn" style="width: 50%;">
 </p>
-<p align="center"><i>Fig. Self-synchronization mechanism. The system will re-establish the right dialect communication quickly after the disaster happens.</i></p>
+<p align="left"><i>Fig. Self-synchronization mechanism. The system will re-establish the right dialect communication quickly after the disaster happens.</i></p>
 
 </details>
