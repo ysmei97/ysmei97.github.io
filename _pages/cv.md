@@ -47,6 +47,7 @@ Experience
   * Developing a class-incremental federated learning model with time-variant input of each edge device by using the diffusion generative model for the server and clients to learn better performance.
   * **Responsibilities**: Continual federated learning problem formulation, generative models design, experiment 
   * **Highlights**: Python, PyTorch.
+
 * Spring & Summer 2017: Electronic Engineer Student Intern
   * Electrical and Electronic Technology Innovation Center, HUST
   * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter.
