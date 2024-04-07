@@ -58,7 +58,7 @@ Therefore, we choose a doubly stochastic point process, the Gaussian [Cox proces
 <p align="center">
   <img src="../files/projects/dc.png" alt="DC" style="width: 75%;">
 </p>
-<p align="center"><i>Fig. Key step visualization of BO on <a href="https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about">2022 DC crime incidents</a> data. Darker red reports regions with higher firearm violence crime rates.</i></p>
+<p align="left"><i>Fig. Key step visualization of BO on <a href="https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about">2022 DC crime incidents</a> data. Darker red reports regions with higher firearm violence crime rates.</i></p>
 </details>
 
 
