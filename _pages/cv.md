@@ -17,12 +17,6 @@ Education
 
 Experience
 ======
-* 2019 -- present: Research Assistant
-  * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
-  * Working on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
-  * **Responsibilities**: Research, experiment, coding, technical writing
-  * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux Bash, Git.
-
 <!---
   * **Topic 1**: Bayesian optimization (BO)
     * Develop a novel gradient-aware BO algorithm to locate local optima in multimodal functions and a BO model for doubly stochastic point process for spatio-temporal data.
@@ -41,6 +35,12 @@ Experience
     * *Responsibilities*: protocol analysis, moving target design, self-synchronization design, experiment
     * *Highlights*: C, Python, Linux kernel
 --->
+
+* 2019 -- present: Research Assistant
+  * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
+  * Working on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
+  * **Responsibilities**: Research, experiment, coding, technical writing
+  * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux Bash, Git.
 
 * Summer 2023: Visiting Scholar
   * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
