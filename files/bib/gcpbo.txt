@@ -1,6 +1,6 @@
 @inproceedings{mei2024bayesian,
   title={Bayesian Optimization through {G}aussian {C}ox Process Models for Spatio-temporal Data},
   author={Mei, Yongsheng and Imani, Mahdi and Lan, Tian},
-  booktitle={International Conference on Learning Representations},
+  booktitle={The Twelfth International Conference on Learning Representations},
   year={2024}
 }
