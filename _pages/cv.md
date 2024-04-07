@@ -21,7 +21,7 @@ Experience
   * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
   * Working on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
   * **Responsibilities**: Research, experiment, coding, technical writing
-  * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux bash, Git.
+  * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux Bash, Git.
 
 <!---
   * **Topic 1**: Bayesian optimization (BO)
@@ -47,7 +47,7 @@ Experience
   * Developing a class-incremental federated learning model with time-variant input of each edge device by using the diffusion generative model for the server and clients to learn better performance.
   * **Responsibilities**: Continual federated learning problem formulation, generative models design, experiment 
   * **Highlights**: Python, PyTorch.
-* Summer 2017: Electronic Engineer Student Intern
+* Spring & Summer 2017: Electronic Engineer Student Intern
   * Electrical and Electronic Technology Innovation Center, HUST
   * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter.
   * **Responsibilities**: Printed circuit board design, FPGA programming
@@ -56,9 +56,9 @@ Experience
 Skills
 ======
 * Programming Languages: Python, C, C++, MATLAB, Java, SQL, R, Verilog
-* Frameworks and Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, BoTorch
+* Frameworks and Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, Matplotlib
 * Databases: MySQL, PostgreSQL, Microsoft SQL, NoSQL
-* Tools: Vim, Git, Bash, GDB, PyCharm, Jupyter, LaTex, Visual Studio, Altium Designer
+* Tools: Vim, Git, Linux Bash, PySpark, Jupyter, LaTex, Visual Studio, Tableau, Altium Designer
 
 Presentations
 ======
