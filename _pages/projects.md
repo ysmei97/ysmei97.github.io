@@ -42,9 +42,9 @@ Therefore, we choose a doubly stochastic point process, the Gaussian [Cox proces
 <p align="center"><i>Fig. Bayesian optimization using Gaussian Cox process model on discrete point data.</i></p>
 
 <details>
-<summary><b>Locate high crime rate regions in <a href="https://www.google.com/maps/place/Washington,+DC/@38.8938592,-77.0969765,12z/data=!3m1!4b1!4m6!3m5!1s0x89b7c6de5af6e45b:0xc2524522d4885d2a!8m2!3d38.9071923!4d-77.0368707!16zL20vMHJoNms?entry=ttu">Washington, DC, USA</a></b></summary>
+<summary><b>Locating high crime rate regions in <a href="https://www.google.com/maps/place/Washington,+DC/@38.8938592,-77.0969765,12z/data=!3m1!4b1!4m6!3m5!1s0x89b7c6de5af6e45b:0xc2524522d4885d2a!8m2!3d38.9071923!4d-77.0368707!16zL20vMHJoNms?entry=ttu">Washington, DC, USA</a></b></summary>
 <p align="center">
-  <img src="../files/projects/dc.png" alt="DC" style="width: 80%;">
+  <img src="../files/projects/dc.png" alt="DC" style="width: 75%;">
 </p>
 <p align="center"><i>Fig. Key step visualization of BO on <a href="https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about">2022 DC crime incidents</a> data. Darker red reports regions with higher firearm violence crime rates.</i></p>
 </details>
@@ -63,7 +63,7 @@ We developed a **multimodal Bayesian optimization (MBO)** framework to locate a 
 <p align="center"><i>Fig. Multi-modal Bayesian optimization.</i></p>
 
 <details>
-<summary><b>Shubert function animation</b></summary>
+<summary><b><a href="https://www.sfu.ca/~ssurjano/shubert.html">Shubert function</a> animation</b></summary>
 <p align="center">
   <img src="../files/projects/shubert.gif" alt="Shubert" style="width: 30%;">
 </p>
