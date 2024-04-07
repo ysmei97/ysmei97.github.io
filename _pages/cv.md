@@ -55,6 +55,7 @@ Skills
 
 Presentations
 ======
+* GW 2024 Business & Policy Forum poster session, April 2024, Washington, DC, US.
 * ICML 2023 Machine Learning for Multimodal Healthcare Data Workshop, July 2023, Honolulu, HI, US. [[Video](https://icml.cc/virtual/2023/workshop/21474#collapse-sl-27920)]
 * Meeting with the Office of Naval Research (ONR) on the project [DIALECT](https://github.com/kailashg26/ONR_Dialect), Feb. 2022, Online.
 * EAI 17th International Conference on Security and Privacy in Communication Networks, Sept. 2021, Online. [[Video](https://www.youtube.com/watch?v=Q1kpBd9dO6M)]
@@ -68,8 +69,9 @@ Services
   * Reviewer of the IEEE Micro
   * Reviewer of the Information Fusion
 * Conference Reviewer
-  * Reviewer of the Conference on Neural Information Processing Systems
-  * Reviewer of the European Conference on Artificial Intelligence
-  * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
-  * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
+  * Reviewer of the Conference on Neural Information Processing Systems (NeurIPS)
+  * Reviewer of the International Conference on Machine Learning (ICML)
+  * Reviewer of the European Conference on Artificial Intelligence (ECAI)
+  * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+  * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data (ML4MHD)
 
