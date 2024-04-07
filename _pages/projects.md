@@ -36,6 +36,19 @@ To determine an optimal solution in the expensive unknown function, general Baye
 
 Therefore, we choose a doubly stochastic point process, the Gaussian [Cox process](https://en.wikipedia.org/wiki/Cox_process) (GCP) with a non-negative smooth [link function](https://en.wikipedia.org/wiki/Generalized_linear_model#Link_function) (connecting the Poisson process with an underlying GP) as the surrogate model for point event intensity to achieve our **point data Bayesian optimization (PDBO)**. We formulate a [Maximum *a posteriori*](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation) inference of the functional posterior of latent intensity and solve its mean and covariance via the [Laplace approximation](https://en.wikipedia.org/wiki/Laplace%27s_approximation) and kernel transformation in [reproducing kernel Hilbert space](https://en.wikipedia.org/wiki/Reproducing_kernel_Hilbert_space). On top of that, we consider a wide range of special acquisition functions, such as detecting peak intensity, idle time, [change point](https://en.wikipedia.org/wiki/Change_detection), and cumulative arrivals, through the underlying GCP model to efficiently discover regions of interest (ROIs) in a large discrete point dataset.
 
+<p align="center">
+  <img src="../files/projects/gcp_bo.png" alt="gcp_bo" style="width: 60%;">
+</p>
+<p align="center"><i>Fig. Bayesian optimization using Gaussian Cox process model on discrete point data.</i></p>
+
+<details>
+<summary><b>Locate high crime rate regions in <a href="https://www.google.com/maps/place/Washington,+DC/@38.8938592,-77.0969765,12z/data=!3m1!4b1!4m6!3m5!1s0x89b7c6de5af6e45b:0xc2524522d4885d2a!8m2!3d38.9071923!4d-77.0368707!16zL20vMHJoNms?entry=ttu">Washington, DC, USA</a></b></summary>
+<p align="center">
+  <img src="../files/projects/dc.png" alt="DC" style="width: 80%;">
+</p>
+<p align="center"><i>Fig. Key step visualization of BO on <a href="https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about">2022 DC crime incidents</a> data. Darker red reports regions with higher firearm violence crime rates.</i></p>
+</details>
+
 
 <a name="unveiling-sub-optimal-solutions-of-an-unknown-function"></a>
 ## Unveiling sub-optimal solutions of an unknown function 
@@ -43,6 +56,11 @@ Therefore, we choose a doubly stochastic point process, the Gaussian [Cox proces
 Giving up the optimal solution while turning to a sub-optimal one is painful. However, even if finding all or most global optima is desired in many real-world problems that can be seen as [multimodal optimization](https://en.wikipedia.org/wiki/Evolutionary_multimodal_optimization), implementing the optimal solutions is sometimes infeasible due to various practical restrictions, such as resource limitations, physical constraints, etc.
 
 We developed a **multimodal Bayesian optimization (MBO)** framework to locate a set of local/global solutions of a given unknown expensive function. We derive the joint distribution of the objective function and its first-order gradients (that are not considered in standard BO frameworks) and introduce new acquisition functions backed by this joint distribution to decide local optima sequentially during optimization.
+
+<p align="center">
+  <img src="../files/projects/mbo.png" alt="mbo" style="width: 60%;">
+</p>
+<p align="center"><i>Fig. Multi-modal Bayesian optimization.</i></p>
 
 <details>
 <summary><b>Shubert function animation</b></summary>
@@ -65,7 +83,7 @@ Besides, we add a [self-attention](https://lilianweng.github.io/posts/2023-01-27
 
 The proposed method optimizes the common information in feature representations of multimodal brain tumor data inputs, which allows precise segmentation with attention to microstructures. The framework is evaluated on the public brain tumor dataset: [Multimodal Brain Tumor Segmentation Challenge](https://www.med.upenn.edu/cbica/brats2020/data.html), where we achieved the [Dice](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient) scores (median) of 0.920, 0.897, 0.837 for the whole tumor, tumor core, and enhancing tumor, respectively.
 
-**System diagram**
+ **System diagram**
 <p align="center">
   <img src="../files/projects/sys_full.png" alt="sys_full" style="width: 60%;">
 </p>
