@@ -18,7 +18,7 @@ This page includes my projects since 2019.
 - [Reinforcement learning](#rl)
   - [Remixing monotonic projection with theoretic explanation](#remixing-monotonic-projection-with-theoretical-explanation)
   - [Prioritized sampling for multi-agent RL](#prioritized-sampling-for-multi-agent-rl)
-  - [The multi-agent RL can be trained faster](#the-multi-agent-rl-can-be-even-trained-faster)
+  - [Accelerating multi-agent RL](#the-multi-agent-rl-can-be-even-trained-faster)
 - [Network security](#network-security)
   - [With protocol dialects, a windtalker](#with-protocol-dialects-a-windtalker)
 
@@ -122,8 +122,16 @@ About [reinforcement learning (RL)](https://lilianweng.github.io/posts/2018-02-1
 
 We formulate a **multi-agent collective prioritization optimization (MAC-PO)** problem and solve it to acquire the optimal weight solution to emphasize the importance of the trajectories. Following the [prioritized experience replay](https://arxiv.org/pdf/1511.05952.pdf) scheme, we extend the prioritized weight assignment to the multi-agent RL scenario, where the agents' individual action-value functions contribute to determining the weights. Specifically, we use several case studies to illustrate our findings.
 
+<details>
+<summary><b>Win rate on <a href="https://arxiv.org/pdf/1902.04043.pdf">Starcraft Multi-Agent Challenge</a></b></summary>
+<p align="center">
+  <img src="../files/projects/smac.png" alt="smac" style="width: 80%;">
+</p>
+<p align="center"><i>Fig. Comparison between MAC-PO and other adapted experience replay methods on three SMAC maps (from hard <br \> to super hard), where MAC-PO outperforms the runner-up by 10%, 6%, and 4% on each map, respectively.</i></p>
+</details>
+
 <a name="the-multi-agent-rl-can-be-even-trained-faster"></a>
-## The multi-agent RL can be trained faster
+## Accelerating multi-agent RL
 
 The sampling phase matters in off-policy RL, where a batch of transitions is uniformly sampled from the memory replay buffer in normal circumstances. We identified the bottleneck during this sampling stage, and to handle it, we can reuse a set of transitions we have already sampled from the replay buffer. We designed an acceleration framework in multi-agent off-policy RL. This data reuse strategy will **accelerate the multi-agent experience replay (AccMER)** guided by the priority weights.
 
