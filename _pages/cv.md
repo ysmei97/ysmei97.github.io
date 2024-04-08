@@ -83,3 +83,10 @@ Services
   * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
   * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
 
+Awards
+======
+* 2023 European Conference on Artificial Intelligence [*Call to Arms*](https://ecai2023.eu/pca) Award
+* 2020, 2021, 2022 GW University Fellowship
+* 2019 HUST Outstanding Graduates
+* 2019 HUST Best Undergraduate Thesis Nominee
+* 2017 Runner-up Prize of National Undergraduate Electronic Design Contest.
