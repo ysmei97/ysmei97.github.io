@@ -82,6 +82,7 @@ Services
   * Reviewer of the European Conference on Artificial Intelligence
   * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
   * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
+  * Reviewer of the NeurIPS workshop on New Frontiers in Graph Learning
 
 Awards
 ======
