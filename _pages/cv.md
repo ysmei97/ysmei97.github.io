@@ -40,7 +40,7 @@ Experience
   * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
   * Working on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
   * **Responsibilities**: Research, experiment, coding, technical writing
-  * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux Bash, Git.
+  * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux Bash, Git
 
 * Summer 2023: Visiting Researcher
   * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
