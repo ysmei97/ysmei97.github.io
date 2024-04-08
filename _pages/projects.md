@@ -132,7 +132,17 @@ About [reinforcement learning (RL)](https://lilianweng.github.io/posts/2018-02-1
 <a name="prioritized-sampling-for-multi-agent-rl"></a>
 ## Prioritized sampling for multi-agent RL
 
-We formulate a **multi-agent collective prioritization optimization (MAC-PO)** problem and solve it to acquire the optimal weight solution to emphasize the importance of the trajectories. Following the [prioritized experience replay](https://arxiv.org/pdf/1511.05952.pdf) scheme, we extend the prioritized weight assignment to the multi-agent RL scenario, where the agents' individual action-value functions contribute to determining the weights. Specifically, we use several case studies to illustrate our findings.
+We formulate a **multi-agent collective prioritization optimization (MAC-PO)** problem and solve it to acquire the optimal weight solution to emphasize the importance of the trajectories. Following the [prioritized experience replay](https://arxiv.org/pdf/1511.05952.pdf) scheme, we extend the prioritized weight assignment to the multi-agent RL scenario, where the agents' individual action-value functions contribute to determining the weights. Based on our findings, the joint action probability function $\boldsymbol{\pi}$ reaches its maximum if and only if (i) the value of each individual's action probability $\pi^i$ is either 0 or 1, and (ii) at least one probability $\pi^i$ equals 0. 
+
+Specifically, we use several case studies to illustrate our findings. In case 1, even if the probability of selecting $\bar{Q}$ for both agents is large, we will not assign this action combination higher weight since its action probabilities $\pi^1,\pi^2$ cannot satisfy the mentioned criterion (i). In case 2, similarly, since $\bar{Q}$ and $\bar{Q}'$ equally share the importance, the action combinations with only one different agent’s action will be assigned with medium weights. In case 3, if one or more action values are extraordinarily large, indicating another joint policy candidate with latent high joint action probability, we should also heed such equivalent competitor and its local searches.
+
+**Special case studies**
+<p align="center">
+  <img src="../files/projects/case.png" alt="case" style="width: 60%;">
+</p>
+<p align="left"><i>Fig. illustration action values for two-agent special cases, where each agent has an action space of size 4. We define the agent policy in the Boltzmann manner. In the figure, the red, blue, and green action combinations will be assigned high, low, and medium weights. </i></p>
+
+
 
 <details>
 <summary><b>Win rate on <a href="https://arxiv.org/pdf/1902.04043.pdf">Starcraft Multi-Agent Challenge</a></b></summary>
