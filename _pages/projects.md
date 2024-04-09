@@ -10,7 +10,7 @@ This page includes my projects since 2019.
 <details>
 <summary><b>Table of Contents</b></summary>
 <ul>
-  <li><a href="#stochastic-process-and-bo">Stochastic process and Bayesian optimization</a>
+  <li><a href="#stochastic-process-and-bo">Stochastic modeling and Bayesian optimization</a>
     <ul>
       <li><a href="#determining-roi-in-discrete-point-data">Determining the region of interest in discrete point data</a></li>
       <li><a href="#unveiling-sub-optimal-solutions-of-an-unknown-function">Unveiling sub-optimal solution of an unknown function</a></li>
@@ -38,7 +38,7 @@ This page includes my projects since 2019.
 
 
 <a name="stochastic-process-and-bo"></a>
-# Stochastic process and Bayesian optimization
+# Stochastic modeling and Bayesian optimization
 About [Bayesian optimization](https://en.wikipedia.org/wiki/Bayesian_optimization)
 
 <a name="determining-roi-in-discrete-point-data"></a>
