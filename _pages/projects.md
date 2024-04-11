@@ -140,7 +140,7 @@ Specifically, we use several case studies to illustrate our findings. In case 1,
 <p align="center">
   <img src="../files/projects/case.png" alt="case" style="width: 60%;">
 </p>
-<p align="left"><i>Fig. Illustration of action values for two-agent special cases, where each agent has an action space of size 4. The agent policy is defined in the Boltzmann manner. In the figure, the red, blue, and green action combinations will be assigned high, low, and medium weights. </i></p>
+<p align="left"><i>Fig. Illustration of action values for two-agent special cases, where each agent has an action space of size 4. The agent policy is defined in the <a href="https://en.wikipedia.org/wiki/Boltzmann_distribution#The_distribution">Boltzmann</a> manner. In the figure, the red, blue, and green action combinations will be assigned high, low, and medium weights. </i></p>
 
 <details>
 <summary><b>Win rate on <a href="https://arxiv.org/pdf/1902.04043.pdf">Starcraft Multi-Agent Challenge</a></b></summary>
