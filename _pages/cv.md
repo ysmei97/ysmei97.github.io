@@ -48,7 +48,7 @@ Experience
   * **Responsibilities**: Continual federated learning convergence validation, diffusion models design, experiment 
   * **Highlights**: Python, PyTorch.
 
-* Spring & Summer 2017: Electronic Engineer Student Intern
+* Spring & Summer 2017: Electronic Engineer Intern
   * HUST Electrical and Electronic Technology Innovation Center
   * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter.
   * **Responsibilities**: Printed circuit board design, FPGA programming
@@ -79,6 +79,7 @@ Services
 * Conference Reviewer
   * Reviewer of the Conference on Neural Information Processing Systems
   * Reviewer of the International Conference on Machine Learning
+  * Reviewer of the IEEE International Conference on Acoustics, Speech, and Signal Processing
   * Reviewer of the European Conference on Artificial Intelligence
   * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
   * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
