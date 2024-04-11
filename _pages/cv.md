@@ -47,7 +47,7 @@ Experience
   * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
   * Developing a continual federated learning model with time-variant input of each edge device by using the diffusion generative model for the server and clients.
   * **Responsibilities**: Continual federated learning convergence validation, diffusion models design, experiment 
-  * **Highlights**: Python, PyTorch.
+  * **Highlights**: Python, PyTorch
 
 * Spring & Summer 2017: Electronic Engineer Intern
   * HUST Electrical and Electronic Technology Innovation Center
