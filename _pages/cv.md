@@ -66,9 +66,9 @@ Presentations
 ======
 * GW 2024 Global Business & Policy Forum poster session, April 2024, Washington, DC, US.
 * ICML 2023 Machine Learning for Multimodal Healthcare Data Workshop, July 2023, Honolulu, HI, US. [[Video](https://icml.cc/virtual/2023/workshop/21474#collapse-sl-27920)]
-* Meeting with the Office of Naval Research on the project [DIALECT](https://github.com/kailashg26/ONR_Dialect), Feb. 2022, Online.
+* Presenting to the Office of Naval Research on the project [DIALECT](https://github.com/kailashg26/ONR_Dialect), Feb. 2022, Online.
 * EAI 17th International Conference on Security and Privacy in Communication Networks, Sept. 2021, Online. [[Video](https://www.youtube.com/watch?v=Q1kpBd9dO6M)]
-* TPCP Software Security Summer School, Aug. 2020, Online. [[Video](https://www.cerias.purdue.edu/assets/downloads/ssss20/videos/day05_02.mp4)]
+* Hosting TPCP Software Security Summer School, Aug. 2020, Online. [[Video](https://www.cerias.purdue.edu/assets/downloads/ssss20/videos/day05_02.mp4)]
 * IEEE 14th International Workshop on Software Clones, Feb. 2020, London, ON, Canada.
 
 Services
