@@ -60,7 +60,7 @@ Skills
 * Programming Languages: Python, C, C++, MATLAB, Java, SQL, R, Verilog
 * Frameworks and Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, Matplotlib
 * Databases: MySQL, PostgreSQL, Microsoft SQL, NoSQL
-* Tools: Vim, Git, Linux Bash, PySpark, Jupyter, LaTex, Visual Studio, AWS, Tableau, Altium Designer, Autodesk Inventor
+* Tools: Vim, Git, Linux Bash, PySpark, Jupyter, LaTex, Visual Studio, AWS, Docker, Tableau, Altium Designer
 
 Presentations
 ======
