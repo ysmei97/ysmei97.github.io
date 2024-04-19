@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yongsheng Mei"
 title_separator          : "-"
-name                     : &name "Yongsheng Mei\n梅咏生"
+name                     : &name "Yongsheng Mei"
 description              : &description "Ph.D. Candidate at the George Washington University"
 url                      : https://ysmei97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongsheng Mei\n梅咏生"
+  name             : "Yongsheng Mei"
   avatar           : "profile.jpg"
   bio              : "Ph.D. candidate at the Geroge Washington University"
   location         : "Washington, DC"
