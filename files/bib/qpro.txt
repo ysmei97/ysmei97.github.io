@@ -1,4 +1,4 @@
-@inproceedings{mei2023mac,
+@inproceedings{mei2024projection,
   title={Projection-Optimal Monotonic Value Function Factorization in Multi-Agent Reinforcement Learning},
   author={Mei, Yongsheng and Zhou, Hanhan and Lan, Tian},
   booktitle={Proceedings of the 2024 International Conference on Autonomous Agents and Multiagent Systems},
