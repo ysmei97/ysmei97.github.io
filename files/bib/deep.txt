@@ -1,0 +1,6 @@
+@article{chen2024deep,
+  title={Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions},
+  author={Chen, Jiayu and Ganguly, Bhargav and Xu, Yang and Mei, Yongsheng and Lan, Tian and Aggarwal, Vaneet},
+  journal={arXiv preprint arXiv:2402.13777},
+  year={2024}
+}
