@@ -22,3 +22,8 @@ Conference
 Journal
 ------
 1. Yurong Chen, **Yongsheng Mei**, Tian Lan, and Guru Venkataramani, *Exploring Effective Fuzzing Strategies to Analyze Communication Protocols*, ACM Digital Threats: Research and Practice (DTRAP), March 2024. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3526088)][[BibTeX](http://ysmei97.github.io/files/bib/exploring.txt)]
+
+
+Preprint
+------
+1. Jiayu Chen, Bhargav Ganguly, Yang Xu, **Yongsheng Mei**, Tian Lan, Vaneet Aggarwal, *Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions*, arXiv preprint, Feb. 2024 [[PDF](https://arxiv.org/pdf/2402.13777.pdf)][[BibTeX](http://ysmei97.github.io/files/bib/deep.txt)]
