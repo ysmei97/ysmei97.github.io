@@ -77,7 +77,7 @@ Services
 * Journal Reviewer
   * Reviewer of the IEEE Transactions on Networking
   * Reviewer of the IEEE Micro
-  * Reviewer of the IEEE transactions on aerospace and electronic systems
+  * Reviewer of the IEEE Transactions on Aerospace and Electronic Systems
   * Reviewer of the Information Fusion
 * Conference Reviewer
   * Reviewer of the Conference on Neural Information Processing Systems
