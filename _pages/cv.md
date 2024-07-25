@@ -45,25 +45,26 @@ Experience
 
 * Summer 2023: Visiting Researcher
   * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
-  * Developing a continual federated learning model with time-variant input of each edge device by using the diffusion generative model for the server and clients.
-  * **Responsibilities**: Continual federated learning convergence validation, diffusion models design, experiment 
+  * Developed a continual federated learning model with time-variant input of each edge device using the diffusion generative model for the server and clients.
+  * **Responsibilities**: Continual federated learning convergence derivation, diffusion models design, experiment 
   * **Highlights**: Python, PyTorch
 
 * Spring & Summer 2017: Electronic Engineer Intern
   * HUST Electrical and Electronic Technology Innovation Center
   * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter.
-  * **Responsibilities**: Printed circuit board design, FPGA programming
-  * **Highlights**: The work achieved the runner-up prize in the 2017 national undergraduate electronic design contest.
+  * **Responsibilities**: PCB design, FPGA programming
+  * **Highlights**: The work won the runner-up prize in the 2017 national undergraduate electronic design contest.
   
 Skills
 ======
 * Programming Languages: Python, C, C++, MATLAB, Java, SQL, R, Verilog
 * Frameworks and Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, Matplotlib
-* Databases: MySQL, PostgreSQL, Microsoft SQL, NoSQL
-* Tools: Vim, Git, Linux Bash, PySpark, Jupyter, LaTex, Visual Studio, AWS, Docker, Tableau, Altium Designer
+* Databases: MySQL, PostgreSQL, Microsoft SQL, MongoDB, ChromaDB
+* Tools: Git, Linux Bash, PySpark, Jupyter, LaTex, AWS, GCP, Docker, Kubernetes, Tableau, Altium Designer
 
 Presentations
 ======
+* GW SEAS 2024 R&D Showcase, April 2024, Washington, DC, US
 * GW 2024 Global Business & Policy Forum poster session, April 2024, Washington, DC, US.
 * ICML 2023 Machine Learning for Multimodal Healthcare Data Workshop, July 2023, Honolulu, HI, US. [[Video](https://icml.cc/virtual/2023/workshop/21474#collapse-sl-27920)]
 * Presenting to the Office of Naval Research on the project [DIALECT](https://github.com/kailashg26/ONR_Dialect), Feb. 2022, Online.
@@ -76,6 +77,7 @@ Services
 * Journal Reviewer
   * Reviewer of the IEEE Transactions on Networking
   * Reviewer of the IEEE Micro
+  * Reviewer of the IEEE transactions on aerospace and electronic systems
   * Reviewer of the Information Fusion
 * Conference Reviewer
   * Reviewer of the Conference on Neural Information Processing Systems
