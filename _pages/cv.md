@@ -74,6 +74,8 @@ Presentations
 
 Services
 ======
+* Program Committee
+  * 2025 Annual AAAI Conference on Artificial Intelligence   
 * Journal Reviewer
   * Reviewer of the IEEE Transactions on Networking
   * Reviewer of the IEEE Micro
