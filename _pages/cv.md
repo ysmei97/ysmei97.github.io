@@ -43,6 +43,12 @@ Experience
   * **Responsibilities**: Research, experiment, coding, technical writing
   * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux Bash, Git
 
+* Summer 2024: Research Engineer Intern
+  * Intelligent Fusion Technology, Inc.
+  * Designed and Applied the transfer learning algorithm to the domain adaptation task to improve the performance of civilian and military vehicle recognition.
+  *  **Responsibilities**: Learning algorithm design, test-driven development, deployment and monitoring
+  *  **Highlights**: Python, PyTorch, TensorFlow, Docker, Git
+
 * Summer 2023: Visiting Researcher
   * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
   * Developed a continual federated learning model with time-variant input of each edge device using the diffusion generative model for the server and clients.
@@ -75,7 +81,8 @@ Presentations
 Services
 ======
 * Program Committee
-  * 2025 Annual AAAI Conference on Artificial Intelligence   
+  * 2025 Annual AAAI Conference on Artificial Intelligence
+  * 2025 International Conference on Autonomous Agents and Multiagent Systems
 * Journal Reviewer
   * Reviewer of the IEEE Transactions on Networking
   * Reviewer of the IEEE Micro
@@ -84,6 +91,7 @@ Services
 * Conference Reviewer
   * Reviewer of the Conference on Neural Information Processing Systems
   * Reviewer of the International Conference on Machine Learning
+  * Reviewer of the International Conference on Learning Representations
   * Reviewer of the IEEE International Conference on Acoustics, Speech, and Signal Processing
   * Reviewer of the European Conference on Artificial Intelligence
   * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
