@@ -28,4 +28,4 @@ Journal
 
 Preprint
 ------
-1. Yongsheng Mei, Liangqi Yuan, Dong-Jun Han, Kevin S Chan, Christopher Brinton, and Tian Lan. *Continual Federated Learning with Conditional Diffusion Models as Replay*, May 2024.
+1. **Yongsheng Mei**, Liangqi Yuan, Dong-Jun Han, Kevin S Chan, Christopher Brinton, and Tian Lan. *Continual Federated Learning with Conditional Diffusion Models as Replay*, May 2024.
