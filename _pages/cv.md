@@ -71,7 +71,7 @@ Skills
 Presentations
 ======
 * GW SEAS 2024 R&D Showcase, April 2024, Washington, DC, US
-* GW 2024 Global Business & Policy Forum poster session, April 2024, Washington, DC, US.
+* GW 2024 Global Business & Policy Forum, April 2024, Washington, DC, US. [[Poster](https://www.canva.com/design/DAGCtqSjksI/M6F1__tcNrC6868tJuaDKg/view?utm_content=DAGCtqSjksI&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
 * ICML 2023 Machine Learning for Multimodal Healthcare Data Workshop, July 2023, Honolulu, HI, US. [[Video](https://icml.cc/virtual/2023/workshop/21474#collapse-sl-27920)]
 * Presenting to the Office of Naval Research on the project [DIALECT](https://github.com/kailashg26/ONR_Dialect), Feb. 2022, Online.
 * EAI 17th International Conference on Security and Privacy in Communication Networks, Sept. 2021, Online. [[Video](https://www.youtube.com/watch?v=Q1kpBd9dO6M)]
