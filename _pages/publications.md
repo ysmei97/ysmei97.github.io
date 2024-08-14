@@ -21,8 +21,8 @@ Conference
 
 Journal
 ------
-1. Hanhan Zhou, Jingdi Chen, **Yongsheng Mei**, Gina Adam, Vaneet Aggarwal, Nathaniel D. Bastian, and Tian Lan. *Real-time Network Intrusion Detection via Importance Sampled Decision Transformers*, Invited Paper, In proceedings of the 21st IEEE International Conference on Mobile Ad Hoc and Smart Systems (MASS), September 2024.
-2. Jiayu Chen, Bhargav Ganguly, Yang Xu, **Yongsheng Mei**, Tian Lan, Vaneet Aggarwal, *Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions*, In proceedings of Transactions on Machine Learning Research, August 2024. [[PDF](https://arxiv.org/pdf/2402.13777.pdf)][[BibTeX](http://ysmei97.github.io/files/bib/deep.txt)]
+1. Hanhan Zhou, Jingdi Chen, **Yongsheng Mei**, Gina Adam, Vaneet Aggarwal, Nathaniel D. Bastian, and Tian Lan. *Real-time Network Intrusion Detection via Importance Sampled Decision Transformers*, Invited Paper, In Proceedings of the 21st IEEE International Conference on Mobile Ad Hoc and Smart Systems (MASS), September 2024.
+2. Jiayu Chen, Bhargav Ganguly, Yang Xu, **Yongsheng Mei**, Tian Lan, Vaneet Aggarwal, *Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions*, Transactions on Machine Learning Research (TMLR), August 2024. [[PDF](https://arxiv.org/pdf/2402.13777.pdf)][[BibTeX](http://ysmei97.github.io/files/bib/deep.txt)]
 3. Yurong Chen, **Yongsheng Mei**, Tian Lan, and Guru Venkataramani, *Exploring Effective Fuzzing Strategies to Analyze Communication Protocols*, ACM Digital Threats: Research and Practice (DTRAP), March 2024. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3526088)][[BibTeX](http://ysmei97.github.io/files/bib/exploring.txt)]
 
 
