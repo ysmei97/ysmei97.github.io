@@ -14,7 +14,7 @@ Welcome to my website!
 
 My name is Yongsheng Mei, and I am an Applied Scientist at <a href="https://www.amazon.science/author/yongsheng-mei">Amazon</a>. I earned my Ph.D. in 2024 from <a href="https://www.gwu.edu/">The George Washington University</a>, advised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a>. My doctoral research focused on Bayesian optimization, reinforcement learning, and foundation models. Prior to that, I received my Bachelor's degree in Automation Engineering in 2019 from <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a>.
 
-_**Feel free to [contact me](mailto:ysmei97@gmail.com) if you want to collaborations on research or other opportunities!**_
+_**Feel free to [contact me](mailto:ysmei97@gmail.com) if you want collaborations on research or other opportunities!**_
 
 Representative Papers
 ======
