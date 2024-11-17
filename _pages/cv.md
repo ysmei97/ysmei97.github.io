@@ -13,7 +13,7 @@ For exhaustive details, please see my [CV](http://ysmei97.github.io/files/cv.pdf
 
 Education
 ======
-* Ph.D. in Electrical Engineering, The George Washington University, 2024 (expected)
+* Ph.D. in Electrical Engineering, The George Washington University, 2024
 * B.E. in Automation Engineering, Huazhong University of Science and Technology, 2019
 
 Experience
@@ -37,7 +37,7 @@ Experience
     * *Highlights*: C, Python, Linux kernel
 --->
 
-* 2019 -- present: Research Assistant
+* 2019 -- 2024: Research Assistant
   * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
   * Working on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
   * **Responsibilities**: Research, experiment, coding, technical writing
