@@ -5,7 +5,7 @@ title: "Projects"
 author_profile: true
 ---
 
-This page includes my projects since 2019.
+This page includes my Ph.D. projects from 2019 to 2024.
 
 <details>
 <summary><b>Table of Contents</b></summary>
