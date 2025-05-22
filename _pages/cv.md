@@ -100,6 +100,7 @@ Services
 
 Awards
 ======
+* 2025 GW ECE Best Dissertation Honorable Mention Award
 * 2023 European Conference on Artificial Intelligence [*Call to Arms*](https://ecai2023.eu/pca) Award
 * 2020, 2021, 2022 GW University Fellowship
 * 2019 HUST Outstanding Graduates
