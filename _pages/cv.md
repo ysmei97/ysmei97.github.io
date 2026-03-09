@@ -37,29 +37,41 @@ Experience
     * *Highlights*: C, Python, Linux kernel
 --->
 
+* 2024 -- Present: Applied Scientist
+  * Amazon.com, Alexa AI
+  * Developed Alexa's foundational LLMs for Alexa+ launch, owning post-training (RL, LHF/LAIF) with GRPO/DAPO/GSPO algorithms. Validated by Alexa+ >100 benchmark metrics, the developed models successfully outperformed external models (e.g., Claude Sonnet 4.5/4/3.5) on accuracy, latency, and capacity for over 90% of real-user traffic on Alexa+.
+
 * 2019 -- 2024: Research Assistant
   * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
   * Working on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
+<!---
   * **Responsibilities**: Research, experiment, coding, technical writing
   * **Highlights**: Python, C, C++, MATLAB, PyTorch, Scikit-learn, TensorFlow, Linux Bash, Git
+--->
 
 * Summer 2024: Research Engineer Intern
   * Intelligent Fusion Technology, Inc.
   * Designed and Applied the transfer learning algorithm to the domain adaptation task to improve the performance of civilian and military vehicle recognition.
+<!---
   *  **Responsibilities**: Learning algorithm design, test-driven development, deployment and monitoring
   *  **Highlights**: Python, PyTorch, TensorFlow, Docker, Git
+--->
 
 * Summer 2023: Visiting Researcher
   * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
   * Developed a continual federated learning model with time-variant input of each edge device using the diffusion generative model for the server and clients.
+<!---
   * **Responsibilities**: Continual federated learning convergence derivation, diffusion models design, experiment 
   * **Highlights**: Python, PyTorch
+--->
 
 * Spring & Summer 2017: Electronic Engineer Intern
   * HUST Electrical and Electronic Technology Innovation Center
-  * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter.
+  * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter. The work won the runner-up prize in the 2017 national undergraduate electronic design contest.
+<!---
   * **Responsibilities**: PCB design, FPGA programming
   * **Highlights**: The work won the runner-up prize in the 2017 national undergraduate electronic design contest.
+--->
   
 Skills
 ======
