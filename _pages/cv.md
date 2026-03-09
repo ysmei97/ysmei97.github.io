@@ -81,8 +81,8 @@ Presentations
 Services
 ======
 * Program Committee
-  * 2025 Annual AAAI Conference on Artificial Intelligence
-  * 2025 International Conference on Autonomous Agents and Multiagent Systems
+  * Annual AAAI Conference on Artificial Intelligence
+  * International Conference on Autonomous Agents and Multiagent Systems
 * Journal Reviewer
   * Reviewer of the IEEE Transactions on Networking
   * Reviewer of the IEEE Micro
