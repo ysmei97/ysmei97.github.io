@@ -39,11 +39,11 @@ Experience
 
 * 2024 -- Present: Applied Scientist
   * Amazon.com, Alexa AI
-  * Developed Alexa's foundational LLMs for Alexa+ launch, owning post-training (RL, LHF/LAIF) with GRPO/DAPO/GSPO algorithms. Validated by Alexa+ >100 benchmark metrics, the developed models successfully outperformed external models (e.g., Claude Sonnet 4.5/4/3.5) on accuracy, latency, and capacity for over 90% of real-user traffic on Alexa+.
+  * Developed Alexa's foundational LLMs for Alexa+ launch, owning post-training RL, LHF/LAIF. Validated by Alexa+ >100 benchmark metrics, the developed models successfully outperformed external models (e.g., Claude Sonnet 4.5/4/3.5) on accuracy, latency, and capacity for over 90% of real-user traffic on Alexa+.
 
 * 2019 -- 2024: Research Assistant
   * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
-  * Working on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
+  * Worked on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
 
 <!---
   * **Responsibilities**: Research, experiment, coding, technical writing
