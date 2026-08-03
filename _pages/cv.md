@@ -39,11 +39,11 @@ Experience
 
 * 2024 -- Present: Applied Scientist
   * Amazon.com, Alexa AI
-  * Developed Alexa's foundational LLMs for Alexa+ launch, owning post-training RL, LHF/LAIF. Validated by Alexa+ >100 benchmark metrics, the developed models successfully outperformed external models (e.g., Claude Sonnet 4.5/4/3.5) on accuracy, latency, and capacity for over 90% of real-user traffic on Alexa+.
+    * Developed Alexa's foundational LLMs for Alexa+ launch, owning post-training RL, LHF/LAIF. Validated by Alexa+ >100 benchmark metrics, the developed models successfully outperformed external models (e.g., Claude Sonnet 4.5/4/3.5) on accuracy, latency, and capacity for over 90% of real-user traffic on Alexa+.
 
 * 2019 -- 2024: Research Assistant
   * The George Washington University, Advisor: [Prof. Tian Lan](https://www2.seas.gwu.edu/~tlan/).
-  * Worked on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
+    * Worked on multiple [research projects](https://ysmei.page/projects/), the topics of which include reinforcement learning, Bayesian optimization, generative AI, computer vision, and network security. Publishing [papers](https://ysmei.page/publications/) in related areas.
 
 <!---
   * **Responsibilities**: Research, experiment, coding, technical writing
@@ -52,7 +52,7 @@ Experience
 
 * Summer 2024: Research Engineer Intern
   * Intelligent Fusion Technology, Inc.
-  * Designed and Applied the transfer learning algorithm to the domain adaptation task to improve the performance of civilian and military vehicle recognition.
+    * Designed and Applied the transfer learning algorithm to the domain adaptation task to improve the performance of civilian and military vehicle recognition.
 
 <!---
   *  **Responsibilities**: Learning algorithm design, test-driven development, deployment and monitoring
@@ -61,28 +61,30 @@ Experience
 
 * Summer 2023: Visiting Researcher
   * Purdue University, Collaborator: [Prof. Christopher Brinton](https://www.cbrinton.net/)
-  * Developed a continual federated learning model with time-variant input of each edge device using the diffusion generative model for the server and clients.
+    * Developed a continual federated learning model with time-variant input of each edge device using the diffusion generative model for the server and clients.
 
 <!---
   * **Responsibilities**: Continual federated learning convergence derivation, diffusion models design, experiment 
   * **Highlights**: Python, PyTorch
 --->
 
+<!---
 * Spring & Summer 2017: Electronic Engineer Intern
   * HUST Electrical and Electronic Technology Innovation Center
-  * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter. The work won the runner-up prize in the 2017 national undergraduate electronic design contest.
+    * Designed the printed circuit board and performed FPGA programming for the adaptive analog signal filter. The work won the runner-up prize in the 2017 national undergraduate electronic design contest.
 
-<!---
   * **Responsibilities**: PCB design, FPGA programming
   * **Highlights**: The work won the runner-up prize in the 2017 national undergraduate electronic design contest.
 --->
-  
+
+<!---
 Skills
 ======
 * Programming Languages: Python, C, C++, MATLAB, Java, SQL, R, Verilog
 * Frameworks and Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, Matplotlib
 * Databases: MySQL, PostgreSQL, Microsoft SQL, MongoDB, ChromaDB
 * Tools: Git, Linux Bash, PySpark, Jupyter, LaTex, AWS, GCP, Docker, Kubernetes, Tableau, Altium Designer
+--->
 
 Presentations
 ======
@@ -105,14 +107,18 @@ Services
   * Reviewer of the IEEE Transactions on Aerospace and Electronic Systems
   * Reviewer of the Information Fusion
 * Conference Reviewer
+  * Reviewer of the Conference on Empirical Methods in Natural Language Processing
   * Reviewer of the Conference on Neural Information Processing Systems
   * Reviewer of the International Conference on Machine Learning
   * Reviewer of the International Conference on Learning Representations
   * Reviewer of the IEEE International Conference on Acoustics, Speech, and Signal Processing
   * Reviewer of the European Conference on Artificial Intelligence
   * Reviewer of the Chinese Conference on Pattern Recognition and Computer Vision
+
+<!---
   * Reviewer of the ICML workshop on Machine Learning for Multimodal Healthcare Data
   * Reviewer of the NeurIPS workshop on New Frontiers in Graph Learning
+--->
 
 Awards
 ======
