@@ -16,6 +16,8 @@ My name is Yongsheng Mei, and I am an Applied Scientist at <a href="https://www.
 
 _**Feel free to [contact me](mailto:ysmei97@gmail.com) if you want collaborations on research or other opportunities!**_
 
+
+<!---
 Representative Papers
 ======
 1. Yongchang Hao, Jie Hao, **Yongsheng Mei**, Ze Ye, Junyi Chai, Bin Guo, Benjamin Yao, Chenlei Guo, Lili Mou. *VEG: Verbal ε-greedy for Semantic Exploration in Multi-Turn RL Agents*, Association for Computational Linguistics (ACL), 2026. [[PDF](https://aclanthology.org/2026.acl-industry.82.pdf)]
@@ -23,7 +25,6 @@ Representative Papers
 3. **Yongsheng Mei**, Hanhan Zhou, Tian Lan, Guru Venkataramani, and Peng Wei, *MAC-PO: Multi-Agent Experience Replay via Collective Priority Optimization*, International Conference on Autonomous Agents and Multiagent Systems (AAMAS), June 2023. [[PDF](https://arxiv.org/pdf/2302.10418.pdf)][[BibTeX](http://ysmei97.github.io/files/bib/macpo.txt)]
 4. **Yongsheng Mei**, Tian Lan, Mahdi Imani, and Suresh Subramaniam, *A Bayesian Optimization Framework for Finding Local Optima in Expensive Multi-Modal Functions*, European Conference on Artificial Intelligence (ECAI), September 2023. [[PDF](https://arxiv.org/pdf/2210.06635.pdf)][[BibTeX](http://ysmei97.github.io/files/bib/bayesian.txt)]
 
-<!---
 5. **Yongsheng Mei**, Guru Venkataramani, and Tian Lan, *Exploiting Partial Common Information Microstructure for Multi-Modal Brain Tumor Segmentation*, ICML workshop on Machine Learning for Multimodal Healthcare Data (ML4MHD), July 2023. [[PDF](https://arxiv.org/pdf/2302.02521.pdf)][[BibTeX](http://ysmei97.github.io/files/bib/exploiting.txt)]
 6. **Yongsheng Mei**, Kailash Gogineni, Tian Lan, and Guru Venkataramani, *MPD: Moving Target Defense through Communication Protocol Dialects*, International Conference on Security and Privacy in Communication Networks (SecureComm), September 2021. [[PDF](https://arxiv.org/pdf/2110.03798.pdf)][[BibTeX](http://ysmei97.github.io/files/bib/mpd.txt)]
 --->
